@@ -98,14 +98,14 @@ let package = Package(
     
     .binaryTarget(
       name: "UnlimintSDK_Core",
-      url: "https://storage.googleapis.com/unl_ios/SPM/2.0.9/UnlimintSDK-Core.xcframework.zip",
-      checksum: "b2bef0998b9f8b71028289c686e54f6f018d82e16ae5734e592bd6fcedc86e7b"
+      url: "https://storage.googleapis.com/unl_ios/SPM/2.1.0/UnlimintSDK-Core.zip",
+      checksum: "22fbfb24c79cb3db84ddd056255be5fb177e01425964ebbdb171d8d6abbaf5ed"
     ),
     
     .binaryTarget(
       name: "UnlimintSDK_SwiftUI",
-      url: "https://storage.googleapis.com/unl_ios/SPM/2.0.9/UnlimintSDK-SwiftUI.xcframework.zip",
-      checksum: "bd0ee70f20d3aa95c8a934335bc2be18058d13818ab70420c8a54c144b23a56c"
+      url: "https://storage.googleapis.com/unl_ios/SPM/2.1.0/UnlimintSDK-SwiftUI.zip",
+      checksum: "da9c0ca49980960793976e7e8e556ee0c43393d3c554870bc2e3df55b64b9578"
     )
     
   ],
