@@ -31,6 +31,6 @@ Pod::Spec.new do |s|
   s.libraries = "z"
 
   s.dependency 'Swinject'
-  s.dependency 'UnlimintSDK_Core', '~> 2.0.9'
+  s.dependency 'UnlimintSDK_Core', '~> 2.1.0'
   s.source_files = "UnlimintSDK_SwiftUI/**/*.{swift,lproj,strings}"
 end
