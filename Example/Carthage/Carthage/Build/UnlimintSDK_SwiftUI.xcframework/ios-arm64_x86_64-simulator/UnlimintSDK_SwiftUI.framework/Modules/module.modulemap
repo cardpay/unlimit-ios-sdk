@@ -1,0 +1,11 @@
+framework module UnlimintSDK_SwiftUI {
+  umbrella header "UnlimintSDK_SwiftUI.h"
+  export *
+
+  module * { export * }
+}
+
+module UnlimintSDK_SwiftUI.Swift {
+  header "UnlimintSDK_SwiftUI-Swift.h"
+  requires objc
+}

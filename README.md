@@ -6,6 +6,8 @@ Unlimint mobile SDK helps you to implement payments in your application. Release
 - checking which payment methods are available for you,
 - payment with new bank card,
 - payment with saved bank card (token),
+- recurring with new bank card,
+- recurring with saved bank card (token),
 - payment with PayPal.
 
 Unlimint SDK has two parts: SDK UI and SDK Core.
@@ -75,13 +77,13 @@ Add framework in project
 ### add in Cartfile 
 
 ```ruby
-binary "https://github.com/cardpay/ios-sdk-podspec/releases/download/2.0.8/UnlimintSwiftUI.json"
+binary "https://storage.googleapis.com/unl_ios/Carthage/UnlimintSwiftUI.json"
 ```
 
 ### Add in Cartfile.private
 
 ```ruby
-binary "https://github.com/cardpay/ios-sdk-podspec/releases/download/2.0.8/UnlimintCore.json"
+binary "https://storage.googleapis.com/unl_ios/Carthage/UnlimintCore.json"
 github "Alamofire/Alamofire" "5.8.0"
 github "Moya/Moya" "15.0.3"
 github "ReactiveCocoa/ReactiveSwift" "6.7.0"

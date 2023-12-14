@@ -1,0 +1,427 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name UnlimintSDK_Core
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Alamofire
+import Foundation
+import Moya
+import Swift
+@_exported import UnlimintSDK_Core
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum UnlimintErrors : Swift.Error, Swift.CustomDebugStringConvertible {
+  case unauthorized(token: Swift.String)
+  case security([Swift.String : Swift.String])
+  case serviceUnavailable
+  case invalidData(any Swift.Error)
+  case networkConnection(any Swift.Error)
+  case `internal`(any Swift.Error)
+  public var debugDescription: Swift.String {
+    get
+  }
+}
+public struct RecurringPaymentTokenMethodData : Swift.Codable {
+  public struct CardAccount : Swift.Codable {
+    public let token: Swift.String
+    public let pan: Swift.String
+    public let billingAddress: UnlimintSDK_Core.BillingAddress?
+    public let cardIssuer: Swift.String?
+    public init(token: Swift.String, pan: Swift.String, billingAddress: UnlimintSDK_Core.BillingAddress?, cardIssuer: Swift.String?)
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public let merchantName: Swift.String
+  public let paymentMethod: Swift.String
+  public let customer: UnlimintSDK_Core.RecurringCustomer
+  public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
+  public let paymentData: UnlimintSDK_Core.PaymentData
+  public let cardAccount: UnlimintSDK_Core.RecurringPaymentTokenMethodData.CardAccount
+  public let recurringData: UnlimintSDK_Core.RecurringData
+  public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.RecurringCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.RecurringPaymentTokenMethodData.CardAccount, recurringData: UnlimintSDK_Core.RecurringData)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+@frozen public enum WebNavigationResults {
+  case success
+  case decline
+  case invalid
+  case skip
+  public static func == (a: UnlimintSDK_Core.WebNavigationResults, b: UnlimintSDK_Core.WebNavigationResults) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public class PaymentCardDomain {
+  public typealias PaymentClosure = (Swift.Result<UnlimintSDK_Core.PaymentResultModel, UnlimintSDK_Core.UnlimintErrors>) -> Swift.Void
+  public enum PayTypes {
+    case token(requisites: UnlimintSDK_Core.TokenPaymentRequisites, data: UnlimintSDK_Core.PaymentTokenMethodData)
+    case card(requisites: UnlimintSDK_Core.CardPaymentRequisites, data: UnlimintSDK_Core.PaymentMethodData)
+  }
+  public init(token: Swift.String)
+  @objc deinit
+}
+extension UnlimintSDK_Core.PaymentCardDomain {
+  public func pay(for type: UnlimintSDK_Core.PaymentCardDomain.PayTypes, completion: @escaping UnlimintSDK_Core.PaymentCardDomain.PaymentClosure)
+  public func onUserNavigateTo(url: Foundation.URL) -> UnlimintSDK_Core.WebNavigationResults
+}
+public struct PaymentCustomer : Swift.Codable {
+  public let homePhone: Swift.String?
+  public let workPhone: Swift.String?
+  public let email: Swift.String
+  public let locale: Swift.String?
+  public let phone: Swift.String?
+  public let ipAddress: Swift.String?
+  public let customerID: Swift.String?
+  public init(homePhone: Swift.String?, workPhone: Swift.String?, email: Swift.String, locale: Swift.String?, phone: Swift.String?, ipAddress: Swift.String?, customerID: Swift.String?)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct BillingAddress : Swift.Codable {
+  public let country: Swift.String
+  public let state: Swift.String?
+  public let zip: Swift.String
+  public let city: Swift.String
+  public let addrLine1: Swift.String
+  public let addrLine2: Swift.String?
+  public init(country: Swift.String, state: Swift.String?, zip: Swift.String, city: Swift.String, addrLine1: Swift.String, addrLine2: Swift.String?)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CardRequisites {
+  public let cardNumber: Swift.String
+  public let expireDate: Foundation.Date
+  public let cvc: Swift.String
+  public init(cardNumber: Swift.String, expireDate: Foundation.Date, cvc: Swift.String)
+}
+public struct PaypalResultModel {
+  public let paymentId: Swift.String
+  public let redirectUrl: Foundation.URL
+}
+public struct BindingCustomer : Swift.Codable {
+  public let id: Swift.String
+  public let email: Swift.String
+  public let locale: Swift.String?
+  public let phone: Swift.String?
+  public let homePhone: Swift.String?
+  public let workPhone: Swift.String?
+  public init(id: Swift.String, email: Swift.String, locale: Swift.String? = nil, phone: Swift.String? = nil, homePhone: Swift.String? = nil, workPhone: Swift.String? = nil)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PaypalPaymentMethodData : Swift.Codable {
+  public let merchantName: Swift.String
+  public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
+  public let paymentMethod: Swift.String
+  public let paymentData: UnlimintSDK_Core.PaymentData
+  public var customer: UnlimintSDK_Core.PaypalPaymentCustomer
+  public init(merchantName: Swift.String, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentMethod: Swift.String, paymentData: UnlimintSDK_Core.PaymentData, customer: UnlimintSDK_Core.PaypalPaymentCustomer)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public class CheckoutDomain {
+  public typealias CheckoutClosure = (Swift.Result<[UnlimintSDK_Core.AvailablePaymentMethod], UnlimintSDK_Core.UnlimintErrors>) -> Swift.Void
+  public init(with mobieToken: Swift.String)
+  @objc deinit
+}
+extension UnlimintSDK_Core.CheckoutDomain {
+  public func availableMethods(completion: @escaping UnlimintSDK_Core.CheckoutDomain.CheckoutClosure)
+}
+extension Swift.String {
+  public var json: [Swift.String : Any] {
+    get
+  }
+}
+extension Swift.Encodable {
+  public var json: [Swift.String : Any] {
+    get
+  }
+}
+public struct BindingMethodData : Swift.Codable {
+  public struct MerchantOrder : Swift.Codable {
+    public let id: Swift.String
+    public let description: Swift.String
+    public init(description: Swift.String, id: Swift.String)
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public let currency: UnlimintSDK_Core.Currency
+  public let customer: UnlimintSDK_Core.BindingCustomer
+  public let merchantOrder: UnlimintSDK_Core.BindingMethodData.MerchantOrder?
+  public let cardAccount: UnlimintSDK_Core.CheckCardAccount?
+  public init(currency: UnlimintSDK_Core.Currency, customer: UnlimintSDK_Core.BindingCustomer, merchantOrder: UnlimintSDK_Core.BindingMethodData.MerchantOrder? = nil, cardAccount: UnlimintSDK_Core.CheckCardAccount? = nil)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct BindingResultModel {
+  public let recurringId: Swift.String
+  public let redirectUrl: Foundation.URL
+}
+public struct CheckCardAccount : Swift.Codable {
+  public let billingAddress: UnlimintSDK_Core.BillingAddress?
+  public init(billingAddress: UnlimintSDK_Core.BillingAddress?)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct RecurringPaymentMethodData : Swift.Codable {
+  public struct CardAccount : Swift.Codable {
+    public let token: Swift.String
+    public let pan: Swift.String
+    public let billingAddress: UnlimintSDK_Core.BillingAddress?
+    public let cardIssuer: Swift.String?
+    public init(token: Swift.String, pan: Swift.String, billingAddress: UnlimintSDK_Core.BillingAddress?, cardIssuer: Swift.String?)
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public let merchantName: Swift.String
+  public let paymentMethod: Swift.String
+  public let customer: UnlimintSDK_Core.RecurringCustomer
+  public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
+  public let paymentData: UnlimintSDK_Core.PaymentData
+  public let cardAccount: UnlimintSDK_Core.RecurringPaymentMethodData.CardAccount?
+  public let recurringData: UnlimintSDK_Core.RecurringData
+  public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.RecurringCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.RecurringPaymentMethodData.CardAccount?, recurringData: UnlimintSDK_Core.RecurringData)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum Environments : Swift.String, Swift.CaseIterable {
+  case sandbox
+  case testCyprus
+  case testCyprusNon3dsBinding
+  case nsk
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [UnlimintSDK_Core.Environments]
+  public typealias RawValue = Swift.String
+  public static var allCases: [UnlimintSDK_Core.Environments] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension UnlimintSDK_Core.Environments {
+  public static var current: UnlimintSDK_Core.Environments
+}
+public struct RecurringPlan : Swift.Codable {
+  public var id: Swift.String
+  public init(id: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+@_hasMissingDesignatedInitializers final public class UnlimitCore {
+  public static let shared: UnlimintSDK_Core.UnlimitCore
+  final public var getCardBindingToken: Swift.Bool
+  final public var recurringScheduledType: Swift.String
+  @objc deinit
+}
+public struct ShippingAddress : Swift.Codable {
+  public let country: Swift.String?
+  public let state: Swift.String?
+  public let zip: Swift.String?
+  public let city: Swift.String?
+  public let phone: Swift.String?
+  public let addrLine1: Swift.String?
+  public let addrLine2: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Item : Swift.Codable {
+  public let name: Swift.String
+  public let description: Swift.String?
+  public let count: Swift.Int?
+  public let price: Swift.Float?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PaymentMerchantOrder : Swift.Codable {
+  public let id: Swift.String
+  public let description: Swift.String
+  public let shippingAddress: UnlimintSDK_Core.ShippingAddress?
+  public let items: [UnlimintSDK_Core.Item]?
+  public init(description: Swift.String, id: Swift.String, shippingAddress: UnlimintSDK_Core.ShippingAddress? = nil, items: [UnlimintSDK_Core.Item]? = nil)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PaymentData : Swift.Codable {
+  public let amount: Foundation.Decimal
+  public let currency: Swift.String
+  public let note: Swift.String?
+  public let dynamicDescriptor: Swift.String?
+  public let transType: Swift.String?
+  public let isEditable: Swift.Bool
+  public let preauth: Swift.Bool?
+  public init(amount: Foundation.Decimal, currency: Swift.String, note: Swift.String?, dynamicDescriptor: Swift.String?, transType: Swift.String?, isEditable: Swift.Bool = false, preauth: Swift.Bool = false)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PaypalPaymentCustomer : Swift.Codable {
+  public var email: Swift.String
+  public init(email: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CardPaymentRequisites {
+  public let cardNumber: Swift.String
+  public let expireDate: Foundation.Date
+  public let cvc: Swift.String
+  public let isGenerateToken: Swift.Bool
+  public init(cardNumber: Swift.String, expireDate: Foundation.Date, cvc: Swift.String, isGenerateToken: Swift.Bool)
+}
+public class PaymentCardRecurringDomain {
+  public typealias PaymentClosure = (Swift.Result<UnlimintSDK_Core.PaymentResultModel, UnlimintSDK_Core.UnlimintErrors>) -> Swift.Void
+  public enum PayTypes {
+    case recurringToken(requisites: UnlimintSDK_Core.TokenPaymentRequisites, data: UnlimintSDK_Core.RecurringPaymentTokenMethodData)
+    case recurringCard(requisites: UnlimintSDK_Core.CardPaymentRequisites, data: UnlimintSDK_Core.RecurringPaymentMethodData)
+  }
+  public init(token: Swift.String)
+  @objc deinit
+}
+extension UnlimintSDK_Core.PaymentCardRecurringDomain {
+  public func pay(for type: UnlimintSDK_Core.PaymentCardRecurringDomain.PayTypes, completion: @escaping UnlimintSDK_Core.PaymentCardRecurringDomain.PaymentClosure)
+  public func onUserNavigateTo(url: Foundation.URL) -> UnlimintSDK_Core.WebNavigationResults
+}
+public struct TokenPaymentRequisites {
+  public let cvc: Swift.String
+  public init(cvc: Swift.String)
+}
+public struct Currency : Swift.Codable {
+  public let value: Swift.String
+  public init(with value: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public protocol Apply {
+}
+extension UnlimintSDK_Core.Apply {
+  @discardableResult
+  public func apply(_ closure: (Self) -> Swift.Void) -> Self
+}
+extension ObjectiveC.NSObject : UnlimintSDK_Core.Apply {
+}
+public struct PaymentResultModel {
+  public let paymentId: Swift.String
+  public let redirectUrl: Foundation.URL
+}
+public class PayPalDomain {
+  public typealias PayPalClosure = (Swift.Result<UnlimintSDK_Core.PaypalResultModel, UnlimintSDK_Core.UnlimintErrors>) -> Swift.Void
+  public init(token: Swift.String)
+  @objc deinit
+}
+extension UnlimintSDK_Core.PayPalDomain {
+  public func pay(data: UnlimintSDK_Core.PaypalPaymentMethodData, completion: @escaping UnlimintSDK_Core.PayPalDomain.PayPalClosure)
+  public func onUserNavigateTo(url: Foundation.URL) -> UnlimintSDK_Core.WebNavigationResults
+}
+public class BindingCardDomain {
+  public typealias BindingClosure = (Swift.Result<UnlimintSDK_Core.BindingResultModel, UnlimintSDK_Core.UnlimintErrors>) -> Swift.Void
+  public init(token: Swift.String)
+  @objc deinit
+}
+extension UnlimintSDK_Core.BindingCardDomain {
+  public func bindCard(for requisites: UnlimintSDK_Core.CardRequisites, data: UnlimintSDK_Core.BindingMethodData, completion: @escaping UnlimintSDK_Core.BindingCardDomain.BindingClosure)
+  public func onUserNavigateTo(url: Foundation.URL) -> UnlimintSDK_Core.WebNavigationResults
+}
+public struct PaypalRequisites {
+  public let email: Swift.String
+  public init(email: Swift.String)
+}
+public struct PaymentMethodData : Swift.Codable {
+  public struct CardAccount : Swift.Codable {
+    public let billingAddress: UnlimintSDK_Core.BillingAddress?
+    public init(token: Swift.String?, billingAddress: UnlimintSDK_Core.BillingAddress?)
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public let merchantName: Swift.String
+  public let paymentMethod: Swift.String
+  public let customer: UnlimintSDK_Core.PaymentCustomer
+  public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
+  public let paymentData: UnlimintSDK_Core.PaymentData
+  public let cardAccount: UnlimintSDK_Core.PaymentMethodData.CardAccount?
+  public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.PaymentCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.PaymentMethodData.CardAccount?)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct RecurringCustomer : Swift.Codable {
+  public let email: Swift.String
+  public let locale: Swift.String?
+  public let customerID: Swift.String?
+  public init(email: Swift.String, locale: Swift.String?, customerID: Swift.String?)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct AvailablePaymentMethod {
+  public enum MethodName : Swift.String {
+    case bankCard
+    case payPal
+    case unknown
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+  public let name: UnlimintSDK_Core.AvailablePaymentMethod.MethodName
+  public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+}
+public enum CardPaymentSystem : Swift.String {
+  case jcb
+  case mastercard
+  case visa
+  case mir
+  case unknown
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct RecurringData : Swift.Codable {
+  public let amount: Foundation.Decimal?
+  public let currency: Swift.String?
+  public let contractNumber: Swift.String
+  public let initiator: Swift.String
+  public var scheduledType: Swift.String
+  public let transType: Swift.String
+  public let initialAmount: Foundation.Decimal?
+  public let subscriptionStart: Swift.String?
+  public let plan: UnlimintSDK_Core.RecurringPlan?
+  public init(amount: Foundation.Decimal?, currency: Swift.String?, contractNumber: Swift.String, transType: Swift.String, initialAmount: Foundation.Decimal?, subscriptionStart: Swift.String?, plan: UnlimintSDK_Core.RecurringPlan?)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PaymentTokenMethodData : Swift.Codable {
+  public struct CardAccount : Swift.Codable {
+    public let token: Swift.String
+    public let pan: Swift.String
+    public let billingAddress: UnlimintSDK_Core.BillingAddress?
+    public let cardIssuer: Swift.String?
+    public init(token: Swift.String, pan: Swift.String, billingAddress: UnlimintSDK_Core.BillingAddress?, cardIssuer: Swift.String?)
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public let merchantName: Swift.String
+  public let paymentMethod: Swift.String
+  public let customer: UnlimintSDK_Core.PaymentCustomer
+  public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
+  public let paymentData: UnlimintSDK_Core.PaymentData
+  public let cardAccount: UnlimintSDK_Core.PaymentTokenMethodData.CardAccount
+  public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.PaymentCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.PaymentTokenMethodData.CardAccount)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension UnlimintSDK_Core.WebNavigationResults : Swift.Equatable {}
+extension UnlimintSDK_Core.WebNavigationResults : Swift.Hashable {}
+extension UnlimintSDK_Core.WebNavigationResults : Swift.Sendable {}
+extension UnlimintSDK_Core.Environments : Swift.Equatable {}
+extension UnlimintSDK_Core.Environments : Swift.Hashable {}
+extension UnlimintSDK_Core.Environments : Swift.RawRepresentable {}
+extension UnlimintSDK_Core.AvailablePaymentMethod : Swift.Encodable {}
+extension UnlimintSDK_Core.AvailablePaymentMethod : Swift.Decodable {}
+extension UnlimintSDK_Core.AvailablePaymentMethod.MethodName : Swift.Equatable {}
+extension UnlimintSDK_Core.AvailablePaymentMethod.MethodName : Swift.Hashable {}
+extension UnlimintSDK_Core.AvailablePaymentMethod.MethodName : Swift.RawRepresentable {}
+extension UnlimintSDK_Core.CardPaymentSystem : Swift.Equatable {}
+extension UnlimintSDK_Core.CardPaymentSystem : Swift.Hashable {}
+extension UnlimintSDK_Core.CardPaymentSystem : Swift.RawRepresentable {}
