@@ -17,6 +17,8 @@
 		B30431BB29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30431BA29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift */; };
 		B304331429A39A24008DE0FF /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331229A39A24008DE0FF /* Endpoints.swift */; };
 		B304331529A39A24008DE0FF /* AuthorizationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331329A39A24008DE0FF /* AuthorizationProvider.swift */; };
+		B313723E2B2B22300072345B /* UnlimintSDK_SwiftUI.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31372272B2AEA840072345B /* UnlimintSDK_SwiftUI.xcframework */; };
+		B313723F2B2B22300072345B /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B31372272B2AEA840072345B /* UnlimintSDK_SwiftUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B3932AC62AA7453C00DCF3D2 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3932AC52AA7453C00DCF3D2 /* Color.swift */; };
 		B3B5F62C2A70F64E00367243 /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F62B2A70F64E00367243 /* StatusView.swift */; };
 		B3B5F6532A8632E700367243 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F6522A8632E700367243 /* NetworkService.swift */; };
@@ -43,6 +45,20 @@
 			remoteInfo = SwiftUISDKTest;
 		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B31372402B2B22300072345B /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				B313723F2B2B22300072345B /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		2C5E0B95B7D6A500609087B6 /* Pods_SwiftUISDKTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftUISDKTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -81,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B313723E2B2B22300072345B /* UnlimintSDK_SwiftUI.xcframework in Frameworks */,
 				0E26E0B61B480D44C4613096 /* Pods_SwiftUISDKTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -242,6 +259,7 @@
 				B304319729A340CD008DE0FF /* Frameworks */,
 				B304319829A340CD008DE0FF /* Resources */,
 				E587DBBAFC5F82B53D7C1C04 /* [CP] Embed Pods Frameworks */,
+				B31372402B2B22300072345B /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
