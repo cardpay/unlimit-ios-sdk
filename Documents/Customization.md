@@ -32,9 +32,19 @@ iOS SDK Demo
 
 ## Screenshot
 
+### Normal Mode
+ 
 ![Description](/Documents/Images/NewCard.png)
 ![Description](/Documents/Images/NewCardWithData.png)
 ![Description](/Documents/Images/StatusPage.png)
+
+
+
+### Dark Mode
+
+![Description](/Documents/Images/NewCardDark.png)
+![Description](/Documents/Images/NewCardWithDataDark.png)
+![Description](/Documents/Images/StatusPageDark.png)
 
 
 ## Example
