@@ -13,14 +13,14 @@
 ![Mobile token](/Documents/Images/token-for-payment.png)
 **Interaction steps**:
 ###### Successful case
-1) Some process with payment was started in merchant application on Android device <br>
+1) Some process with payment was started in merchant application on iOS device <br>
 2) Merchant backend sends request to api/mobile/token to obtaining mobile token using basic authentication to Unlimint API. <br>
 3) Unlimint API returns mobile token <br>
 4) Merchant backend provides mobile token to Merchant Host App <br>
 5) Merchant Host App stores mobile token <br>
 
 ###### Unsuccessful case
-1) Some process with payment was started in merchant application on Android device <br>
+1) Some process with payment was started in merchant application on iOS device <br>
 2) Merchant backend sends request to api/mobile/token to obtaining mobile token using basic authentication to Unlimint API. <br>
 3) Unlimint API return error <br>
 
