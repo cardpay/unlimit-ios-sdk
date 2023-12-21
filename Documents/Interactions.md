@@ -10,7 +10,7 @@
 
 **Postcondition**: Merchant has had mobile token <br>
 
-![Mobile token](/pics/token-for-payment.png)
+![Mobile token](/Documents/Images/token-for-payment.png)
 **Interaction steps**:
 ###### Successful case
 1) Some process with payment was started in merchant application on Android device <br>
@@ -35,11 +35,11 @@
 
 **Postcondition**: Merchant has card token for further payments <br>
 
-![Card binding](/pics/binding.png)
+![Card binding](/Documents/Images/binding.png)
 **Interaction steps**:
 ###### Successful case
 1) User initiates card data entry <br>
-2) Merchant Host Application call function **[bindNewCardForResult()](https://cardpay.github.io/android-sdk-demo/card-binding)**. Type of binding data must be set 'RECURRING' for recurrent payments or 'PAYMENT' for payments with card token <br>
+2) Merchant Host Application call function **[bindNewCardForResult()](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/BindCard.md)**. Type of binding data must be set 'RECURRING' for recurrent payments or 'PAYMENT' for payments with card token <br>
 3) Unlimint UI SDK shows form for entering card data <br>
 4) User enters card dats <br>
 5) Unlimint UI SDK sends Card binding request <br>
@@ -55,7 +55,7 @@
 
 ###### Unsuccessful case
 1) User initiates card data entry <br>
-2) Merchant Host Application call function **[bindNewCardForResult()](https://cardpay.github.io/android-sdk-demo/card-binding)**. Type of binding data must be set 'RECURRING' for recurrent payments or 'PAYMENT' for payments with card token <br>
+2) Merchant Host Application call function **[bindNewCardForResult()](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/BindCard.md)**. Type of binding data must be set 'RECURRING' for recurrent payments or 'PAYMENT' for payments with card token <br>
 3) Unlimint UI SDK shows form for entering card data <br>
 4) User enters card dats <br>
 5) Unlimint UI SDK sends Card binding request <br>
@@ -75,11 +75,11 @@
  - Merchant has mobile token
 
 **Postcondition**: Merchant has card token for further payments <br>
-![Card token](/pics/payment.png)
+![Card token](/Documents/Images/payment.png)
 **Interaction steps**:
 ###### Successful case
 1) User initiates card payment <br>
-2) Merchant Host Application call function **[paymentForResult()](https://cardpay.github.io/android-sdk-demo/card-payment)** <br>
+2) Merchant Host Application call function **[paymentForResult()](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Payment.md)** <br>
 3) Unlimint UI SDK shows form for entering security code <br>
 4) User enters security code <br>
 5) Unlimint UI SDK sends payment request <br>
@@ -93,7 +93,7 @@
 
 ###### Unsuccessful case
 1) User initiates card payment <br>
-2) Merchant Host Application call function **[paymentForResult()](https://cardpay.github.io/android-sdk-demo/card-payment)** <br>
+2) Merchant Host Application call function **[paymentForResult()](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Payment.md)** <br>
 3) Unlimint UI SDK shows form for entering security code <br>
 4) User enters security code <br>
 5) Unlimint UI SDK sends payment request <br>
@@ -116,11 +116,11 @@
  - Scheduled by Unlimint (SA): subscription is created.
  - Scheduled by Merchant (SA): filing id is sent by Unlimint
 
-![COF payments](/pics/recurring.png)
+![COF payments](/Documents/Images/recurring.png)
 **Interaction steps**:
 ###### Successful case
 1) User initiates card payment <br>
-2) Merchant Host Application call function **[recurringForResult()](https://cardpay.github.io/android-sdk-demo/card-recurring)** <br>
+2) Merchant Host Application call function **[recurringForResult()](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Recurring.md)** <br>
 3) Unlimint UI SDK shows form for entering security code or full card data depending on request. <br>
 4) User enters card data <br>
 5) Unlimint UI SDK sends COF payment request. Merchant can choose SM or SA scheduled payments are used <br>
@@ -133,7 +133,7 @@
 
 ###### Unsuccessful case
 1) User initiates card payment <br>
-2) Merchant Host Application call function **[recurringForResult()](https://cardpay.github.io/android-sdk-demo/card-recurring)** <br>
+2) Merchant Host Application call function **[recurringForResult()](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Recurring.md)** <br>
 3) Unlimint UI SDK shows form for entering security code or full card data depending on request. <br>
 4) User enters card data <br>
 5) Unlimint UI SDK sends COF payment request. Merchant can choose SM or SA scheduled payments are used <br>
