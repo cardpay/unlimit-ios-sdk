@@ -11,8 +11,7 @@ Unlimint mobile SDK helps you to implement payments in your application. Release
 - payment with PayPal.
 
 Unlimint SDK has two parts: SDK UI and SDK Core.
-SDK UI already contains SDK Core. The former has user interface, root detection and simplified API. It securely collects and transmits user card data. The latter has only payment methods.
-We strongly recommend to use SDK UI if you don't have PCI DSS certificate.
+SDK UI already contains SDK Core. The former has user interface, root detection and simplified API. It securely collects and transmits user card data. The latter has only payment methods. You have to use SDK UI if you don’t have PCI DSS certificate.
 
 
 # Installation 
