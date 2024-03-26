@@ -9,6 +9,7 @@ Unlimint mobile SDK helps you to implement payments in your application. Release
 - recurring with new bank card,
 - recurring with saved bank card (token),
 - payment with PayPal.
+- payment with ApplePay
 
 Unlimint SDK has two parts: SDK UI and SDK Core.
 SDK UI already contains SDK Core. The former has user interface, root detection and simplified API. It securely collects and transmits user card data. The latter has only payment methods. You have to use SDK UI if you don’t have PCI DSS certificate.
@@ -114,6 +115,7 @@ Follow links below to get more information about methonds
 - **Card Binding**: [Unlimint.shared.bind](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/BindCard.md)
 - **Payment**: [Unlimint.shared.checkout](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Payment.md)
 - **Recurring**: [Unlimint.shared.recuringPayment](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Recurring.md)
+- **ApplePay**: [Unlimint.shared.checkout](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/ApplePay.md)
 
 
 Service interactions described [here](https://github.com/cardpay/unlimit-ios-sdk/blob/master/Documents/Interactions.md)<br>
