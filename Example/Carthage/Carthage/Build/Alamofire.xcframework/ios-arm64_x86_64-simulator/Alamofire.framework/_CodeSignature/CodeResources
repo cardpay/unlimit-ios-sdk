@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/Alamofire-Swift.h</key>
 		<data>
-		aEJ0TzNcquKU82QfASAA3NMjBjM=
+		DEAAN8sRJ9o0i3Da+Q10xWFQVVA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		49Ahfc50K7/NR5kYuNgEqPm0nRc=
+		ph1G3hhEazQwax9pcotV1pNrbsI=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		OyUtNlb3YKKp/zr2/EsYl7Gk91Q=
+		vw/Zesi4ImS620Rmdc8byxusTD0=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		NXb9hhXIsgeRcWAnukeJZW2jTuE=
+		6yJGCcv0z1SVHP6E25u51JJI5vA=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TJwgROKOXHi/bJgqcrM5HzvyuTI=
+		yS6ZRuqTTYh1lEr1iWAB4Cs1JWA=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		um2H19Nc73TEUEMHLkUX22esGkw=
+		ZvYAxI9+R3BpM2fEN6c263dXrLE=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,15 @@
 		</data>
 		<key>Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ws6Nd+Amio8Oky4I3Zzqwr28g0Q=
+		xSNMWxiaFxqYq8IR7nxEW1D0JzI=
 		</data>
 		<key>Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9AHtAWxl/utYdYBMQyKWoYE0Hzg=
+		cGtHibLYfzcfKq5aQ9Bhds/kX/c=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		ovFJMFOLMjzh8DLJKmXncj8JIgU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,33 +55,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aEJ0TzNcquKU82QfASAA3NMjBjM=
+			DEAAN8sRJ9o0i3Da+Q10xWFQVVA=
 			</data>
 			<key>hash2</key>
 			<data>
-			i6nbO1VRBn/028k4l0RGJVOuXlb5oAdie2XP66Y7nrk=
+			AILv2KwXKvzd3Z6mu93qD+gn4GRtpaMEX2zLDgdPY4g=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OyUtNlb3YKKp/zr2/EsYl7Gk91Q=
+			vw/Zesi4ImS620Rmdc8byxusTD0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lM55WoVKOW6p9tyyon9l16OsK0foQL+j+3d10egaB4g=
+			KpnqLWAhL2MoaJL1kd/iMxeCP6Ay0E6/lk+ho889l2k=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NXb9hhXIsgeRcWAnukeJZW2jTuE=
+			6yJGCcv0z1SVHP6E25u51JJI5vA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8W3PvLnxCR6DdOdwSoCUdZ+wRBU7bjCWs2tPL6HwK7s=
+			ht412U/ZGvqOj97LdGk5KSR+Iq98PwGclroSK2GD02k=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -95,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TJwgROKOXHi/bJgqcrM5HzvyuTI=
+			yS6ZRuqTTYh1lEr1iWAB4Cs1JWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			wnmOCy86TgkCjPUAFE2nI+/qHhkmw8gZm4ScgiaqyH8=
+			W4aTIYefd889uDGkiPBVkreF47iJmchzoPN6Z8I9RJY=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			um2H19Nc73TEUEMHLkUX22esGkw=
+			ZvYAxI9+R3BpM2fEN6c263dXrLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			mGlmFZUAC5gVHmaU+sTAvmmkrcB3xW8ELWzk5C5CrxA=
+			M1gm0mODTJ7AP5CdZYaz8QWTkAWisz9W0rVdLk71eKg=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -128,22 +132,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ws6Nd+Amio8Oky4I3Zzqwr28g0Q=
+			xSNMWxiaFxqYq8IR7nxEW1D0JzI=
 			</data>
 			<key>hash2</key>
 			<data>
-			9XlpBb+/k6omdFiWau1OILu3YHHTSxCB0xLxJtiknJM=
+			Cz2jT0yIAGM8PphftKc/vdfLk5+9ZoD/IgDtlOsZmsU=
 			</data>
 		</dict>
 		<key>Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9AHtAWxl/utYdYBMQyKWoYE0Hzg=
+			cGtHibLYfzcfKq5aQ9Bhds/kX/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			HuQrkswCmTi/eSrbYMewBBs8rZwDqVdTImQ0y84NhKc=
+			R7se+L7vy+OCSBeSWWUZoLFv+GHRbkf7h3TRBFT0TNU=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ovFJMFOLMjzh8DLJKmXncj8JIgU=
+			</data>
+			<key>hash2</key>
+			<data>
+			CNkOaUbb/qDQtbF/tlnXfu0j5EO3Rdjntbn6N4y3RHc=
 			</data>
 		</dict>
 	</dict>

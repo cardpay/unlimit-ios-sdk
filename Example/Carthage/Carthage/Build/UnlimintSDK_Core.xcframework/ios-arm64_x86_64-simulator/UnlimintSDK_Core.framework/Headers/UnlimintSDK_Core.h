@@ -2,7 +2,7 @@
 //  UnlimintSDK_Core.h
 //  UnlimintSDK-Core
 //
-//  Created by Mohammad Parvez on 20/10/23.
+//  Created by Denis Gnezdilov on 19.04.2021.
 //
 
 #import <Foundation/Foundation.h>

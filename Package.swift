@@ -2,11 +2,11 @@
 
 import PackageDescription
 
-let SWINJECT_VERSION: PackageDescription.Version = "2.8.0"
+let SWINJECT_VERSION: PackageDescription.Version = "2.8.4"
 let MOYA_VERSION: PackageDescription.Version = "15.0.3"
-let ALAMOFIRE_VERSION: PackageDescription.Version = "5.6.4"
-let UNLIMINT_CORE_VERSION: PackageDescription.Version = "2.0.1"
-let UNLIMINT_SWIFTUI_VERSION: PackageDescription.Version = "2.0.1"
+let ALAMOFIRE_VERSION: PackageDescription.Version = "5.9.1"
+let UNLIMINT_CORE_VERSION: PackageDescription.Version = "2.1.4"
+let UNLIMINT_SWIFTUI_VERSION: PackageDescription.Version = "2.1.4"
 
 let package = Package(
     
@@ -98,14 +98,14 @@ let package = Package(
     
     .binaryTarget(
       name: "UnlimintSDK_Core",
-      url: "https://storage.googleapis.com/unl_ios/SPM/2.1.0/UnlimintSDK-Core.zip",
-      checksum: "22fbfb24c79cb3db84ddd056255be5fb177e01425964ebbdb171d8d6abbaf5ed"
+      url: "https://storage.googleapis.com/unl_ios/SPM/2.1.4/UnlimintSDK-Core.zip",
+      checksum: "657e4b35c79d168ed4e1f8545a595796b04b1e482dc73c0069de17ccbfcae1dd"
     ),
     
     .binaryTarget(
       name: "UnlimintSDK_SwiftUI",
-      url: "https://storage.googleapis.com/unl_ios/SPM/2.1.0/UnlimintSDK-SwiftUI.zip",
-      checksum: "da9c0ca49980960793976e7e8e556ee0c43393d3c554870bc2e3df55b64b9578"
+      url: "https://storage.googleapis.com/unl_ios/SPM/2.1.4/UnlimintSDK-SwiftUI.zip",
+      checksum: "e42f924f4e4cea979c61a50ba2aebc29085ea46721d9febf8883f0f854ca77bf"
     )
     
   ],

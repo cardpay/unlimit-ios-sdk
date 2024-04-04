@@ -4,6 +4,7 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import DeveloperToolsSupport
 import Foundation
+import PassKit
 import Swift
 import SwiftUI
 import Swinject
@@ -12,6 +13,7 @@ import UnlimintSDK_Core
 @_exported import UnlimintSDK_SwiftUI
 import WebKit
 import _Concurrency
+import _PassKit_SwiftUI
 import _StringProcessing
 import _SwiftConcurrencyShims
 public enum Methods : Swift.String {
@@ -19,6 +21,7 @@ public enum Methods : Swift.String {
   case paymentWithCard
   case paymentWithToken
   case payPal
+  case applePay
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -38,6 +41,12 @@ public enum BindingErrors : Swift.Error {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s19UnlimintSDK_SwiftUI08CheckoutC6UIViewV4bodyQrvp", 0) __
+}
+@_Concurrency.MainActor(unsafe) public struct ApplePayView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s19UnlimintSDK_SwiftUI12ApplePayViewV4bodyQrvp", 0) __
 }
 extension Foundation.NSNotification.Name {
   public static let eventUnlimintSuccess: Foundation.NSNotification.Name
@@ -67,7 +76,9 @@ extension UnlimintSDK_SwiftUI.Unlimint {
   final public var theme: UnlimintSDK_SwiftUI.Theme
   final public var skipStatusPages: Swift.Bool
   final public var getCardBindingToken: Swift.Bool
+  final public var enableApplePay: Swift.Bool
   final public var recurringScheduleType: UnlimintSDK_SwiftUI.Unlimint.ScheduleType
+  final public var applePayBundleIdentifier: Swift.String
   final public var environment: UnlimintSDK_Core.Environments {
     get
     set
@@ -93,6 +104,7 @@ extension UnlimintSDK_SwiftUI.Unlimint {
     case payPal(UnlimintSDK_Core.PaypalPaymentMethodData)
     case recurringCardToken(type: UnlimintSDK_Core.CardPaymentSystem?, UnlimintSDK_Core.RecurringPaymentTokenMethodData)
     case recurringPaymentCard(UnlimintSDK_Core.RecurringPaymentMethodData)
+    case applePay(UnlimintSDK_Core.ApplePayPaymentMethodData)
   }
   final public func checkout(for mobileToken: Swift.String, with methods: [UnlimintSDK_SwiftUI.Unlimint.PaymentMethods]) -> some SwiftUI.View
   

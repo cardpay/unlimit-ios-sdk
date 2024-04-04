@@ -16,16 +16,16 @@
 		B30431BB29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30431BA29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift */; };
 		B304331429A39A24008DE0FF /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331229A39A24008DE0FF /* Endpoints.swift */; };
 		B304331529A39A24008DE0FF /* AuthorizationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331329A39A24008DE0FF /* AuthorizationProvider.swift */; };
-		B31372332B2AFB390072345B /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B313722E2B2AFB390072345B /* Swinject.xcframework */; };
-		B31372342B2AFB390072345B /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B313722E2B2AFB390072345B /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B31372352B2AFB390072345B /* Moya.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B313722F2B2AFB390072345B /* Moya.xcframework */; };
-		B31372362B2AFB390072345B /* Moya.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B313722F2B2AFB390072345B /* Moya.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B31372372B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31372302B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework */; };
-		B31372382B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B31372302B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B31372392B2AFB390072345B /* Alamofire.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31372312B2AFB390072345B /* Alamofire.xcframework */; };
-		B313723A2B2AFB390072345B /* Alamofire.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B31372312B2AFB390072345B /* Alamofire.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B313723B2B2AFB390072345B /* UnlimintSDK_Core.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31372322B2AFB390072345B /* UnlimintSDK_Core.xcframework */; };
-		B313723C2B2AFB390072345B /* UnlimintSDK_Core.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B31372322B2AFB390072345B /* UnlimintSDK_Core.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3159E362BBE8462000A8C2D /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E312BBE8462000A8C2D /* Swinject.xcframework */; };
+		B3159E372BBE8462000A8C2D /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E312BBE8462000A8C2D /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3159E382BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */; };
+		B3159E392BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3159E3A2BBE8462000A8C2D /* Moya.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E332BBE8462000A8C2D /* Moya.xcframework */; };
+		B3159E3B2BBE8462000A8C2D /* Moya.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E332BBE8462000A8C2D /* Moya.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3159E3C2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */; };
+		B3159E3D2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3159E3E2BBE8462000A8C2D /* Alamofire.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E352BBE8462000A8C2D /* Alamofire.xcframework */; };
+		B3159E3F2BBE8462000A8C2D /* Alamofire.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E352BBE8462000A8C2D /* Alamofire.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B3932AC62AA7453C00DCF3D2 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3932AC52AA7453C00DCF3D2 /* Color.swift */; };
 		B3B5F62C2A70F64E00367243 /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F62B2A70F64E00367243 /* StatusView.swift */; };
 		B3B5F6532A8632E700367243 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F6522A8632E700367243 /* NetworkService.swift */; };
@@ -54,17 +54,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		B313723D2B2AFB390072345B /* Embed Frameworks */ = {
+		B3B359B22B7CE19900F3FB34 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				B313723A2B2AFB390072345B /* Alamofire.xcframework in Embed Frameworks */,
-				B31372342B2AFB390072345B /* Swinject.xcframework in Embed Frameworks */,
-				B31372382B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */,
-				B313723C2B2AFB390072345B /* UnlimintSDK_Core.xcframework in Embed Frameworks */,
-				B31372362B2AFB390072345B /* Moya.xcframework in Embed Frameworks */,
+				B3159E3F2BBE8462000A8C2D /* Alamofire.xcframework in Embed Frameworks */,
+				B3159E392BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */,
+				B3159E3D2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Embed Frameworks */,
+				B3159E372BBE8462000A8C2D /* Swinject.xcframework in Embed Frameworks */,
+				B3159E3B2BBE8462000A8C2D /* Moya.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -84,12 +84,12 @@
 		B30431BA29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISDKTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B304331229A39A24008DE0FF /* Endpoints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Endpoints.swift; sourceTree = "<group>"; };
 		B304331329A39A24008DE0FF /* AuthorizationProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthorizationProvider.swift; sourceTree = "<group>"; };
-		B313722D2B2AF7F80072345B /* Cartfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
-		B313722E2B2AFB390072345B /* Swinject.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Swinject.xcframework; path = Carthage/Build/Swinject.xcframework; sourceTree = "<group>"; };
-		B313722F2B2AFB390072345B /* Moya.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Moya.xcframework; path = Carthage/Build/Moya.xcframework; sourceTree = "<group>"; };
-		B31372302B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = UnlimintSDK_SwiftUI.xcframework; path = Carthage/Build/UnlimintSDK_SwiftUI.xcframework; sourceTree = "<group>"; };
-		B31372312B2AFB390072345B /* Alamofire.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Alamofire.xcframework; path = Carthage/Build/Alamofire.xcframework; sourceTree = "<group>"; };
-		B31372322B2AFB390072345B /* UnlimintSDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = UnlimintSDK_Core.xcframework; path = Carthage/Build/UnlimintSDK_Core.xcframework; sourceTree = "<group>"; };
+		B3159E312BBE8462000A8C2D /* Swinject.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Swinject.xcframework; path = Carthage/Build/Swinject.xcframework; sourceTree = "<group>"; };
+		B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = UnlimintSDK_SwiftUI.xcframework; path = Carthage/Build/UnlimintSDK_SwiftUI.xcframework; sourceTree = "<group>"; };
+		B3159E332BBE8462000A8C2D /* Moya.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Moya.xcframework; path = Carthage/Build/Moya.xcframework; sourceTree = "<group>"; };
+		B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = UnlimintSDK_Core.xcframework; path = Carthage/Build/UnlimintSDK_Core.xcframework; sourceTree = "<group>"; };
+		B3159E352BBE8462000A8C2D /* Alamofire.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Alamofire.xcframework; path = Carthage/Build/Alamofire.xcframework; sourceTree = "<group>"; };
+		B36BCC7F2B95DB8D004F60DA /* SwiftUISDKTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUISDKTest.entitlements; sourceTree = "<group>"; };
 		B3932AC52AA7453C00DCF3D2 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		B3A17B4A29EE92FC00593E15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B3B5F62B2A70F64E00367243 /* StatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusView.swift; sourceTree = "<group>"; };
@@ -109,11 +109,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B31372392B2AFB390072345B /* Alamofire.xcframework in Frameworks */,
-				B31372332B2AFB390072345B /* Swinject.xcframework in Frameworks */,
-				B31372372B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework in Frameworks */,
-				B313723B2B2AFB390072345B /* UnlimintSDK_Core.xcframework in Frameworks */,
-				B31372352B2AFB390072345B /* Moya.xcframework in Frameworks */,
+				B3159E3E2BBE8462000A8C2D /* Alamofire.xcframework in Frameworks */,
+				B3159E382BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Frameworks */,
+				B3159E3C2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Frameworks */,
+				B3159E362BBE8462000A8C2D /* Swinject.xcframework in Frameworks */,
+				B3159E3A2BBE8462000A8C2D /* Moya.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,6 +159,7 @@
 		B304319C29A340CD008DE0FF /* SwiftUISDKTest */ = {
 			isa = PBXGroup;
 			children = (
+				B36BCC7F2B95DB8D004F60DA /* SwiftUISDKTest.entitlements */,
 				B3A17B4A29EE92FC00593E15 /* Info.plist */,
 				B3B5F6562A87EAD300367243 /* Model */,
 				B304331129A39A24008DE0FF /* Network */,
@@ -198,12 +199,11 @@
 		B30431EB29A34284008DE0FF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B31372312B2AFB390072345B /* Alamofire.xcframework */,
-				B313722F2B2AFB390072345B /* Moya.xcframework */,
-				B313722E2B2AFB390072345B /* Swinject.xcframework */,
-				B31372322B2AFB390072345B /* UnlimintSDK_Core.xcframework */,
-				B31372302B2AFB390072345B /* UnlimintSDK_SwiftUI.xcframework */,
-				B313722D2B2AF7F80072345B /* Cartfile */,
+				B3159E352BBE8462000A8C2D /* Alamofire.xcframework */,
+				B3159E332BBE8462000A8C2D /* Moya.xcframework */,
+				B3159E312BBE8462000A8C2D /* Swinject.xcframework */,
+				B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */,
+				B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -265,7 +265,7 @@
 				B304319629A340CD008DE0FF /* Sources */,
 				B304319729A340CD008DE0FF /* Frameworks */,
 				B304319829A340CD008DE0FF /* Resources */,
-				B313723D2B2AFB390072345B /* Embed Frameworks */,
+				B3B359B22B7CE19900F3FB34 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -570,8 +570,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
+				CODE_SIGN_ENTITLEMENTS = SwiftUISDKTest/SwiftUISDKTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2.1.4;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUISDKTest/Preview Content\"";
 				DEVELOPMENT_TEAM = CZRPTJK8H2;
 				ENABLE_PREVIEWS = YES;
@@ -581,13 +582,14 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.unlimint.SwiftUISDKTest;
+				MARKETING_VERSION = 2.1.4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unlimint.demosdk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -600,8 +602,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
+				CODE_SIGN_ENTITLEMENTS = SwiftUISDKTest/SwiftUISDKTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2.1.4;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUISDKTest/Preview Content\"";
 				DEVELOPMENT_TEAM = CZRPTJK8H2;
 				ENABLE_PREVIEWS = YES;
@@ -611,13 +614,14 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.unlimint.SwiftUISDKTest;
+				MARKETING_VERSION = 2.1.4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unlimint.demosdk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

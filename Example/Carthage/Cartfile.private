@@ -1,5 +1,5 @@
-binary "https://storage.googleapis.com/unl_ios/Carthage/UnlimintCore.json"
-github "Alamofire/Alamofire" "5.8.0"
+binary "https://storage.googleapis.com/unl_ios/Carthage/2.1.4/UnlimintCore.json"
+github "Alamofire/Alamofire" "5.9.1"
 github "Moya/Moya" "15.0.3"
 github "ReactiveCocoa/ReactiveSwift" "6.7.0"
 github "ReactiveX/RxSwift" "6.6.0"

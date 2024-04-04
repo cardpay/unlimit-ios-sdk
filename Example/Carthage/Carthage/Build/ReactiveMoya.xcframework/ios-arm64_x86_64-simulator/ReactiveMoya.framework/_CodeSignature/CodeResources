@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/ReactiveMoya.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		aQ/AsGKGnwN10568fKCasTn9IXs=
+		YFerW4JhlmbxRhwxrxvwHXhy1K4=
 		</data>
 		<key>Modules/ReactiveMoya.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		VA7boqzzOqcY7XjPSIlaOwhtU2w=
+		waLGmtsR4h4cniwKznFInFZfT+8=
 		</data>
 		<key>Modules/ReactiveMoya.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/ReactiveMoya.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Mkous40nnxx3y5oYhcEcK4Xvx0w=
+		fGe3jVxzA350yhQ6FeTkFRfS03I=
 		</data>
 		<key>Modules/ReactiveMoya.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ReactiveMoya.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gWf7Jl3/9wt86rvdlh63vHS0/8g=
+		6DKRONbkbAWKJtAJPvna6vi2wzo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aQ/AsGKGnwN10568fKCasTn9IXs=
+			YFerW4JhlmbxRhwxrxvwHXhy1K4=
 			</data>
 			<key>hash2</key>
 			<data>
-			WyBHqqSPNmqWQcXrOER37EoVnjM+joxwe013KdFWH6Q=
+			5Y/tXH3zVsRBmIyr45VzI2lywHZ0f0B9z96mLhPYGFw=
 			</data>
 		</dict>
 		<key>Modules/ReactiveMoya.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VA7boqzzOqcY7XjPSIlaOwhtU2w=
+			waLGmtsR4h4cniwKznFInFZfT+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			CJmzVOJMIj982hzpddNdtvjD70Ko1l+6hUdTIVfQdBM=
+			gKqQWDCgvsmzWnJ/HquXsZcMpFTLsQMQsy+Af1SiNbE=
 			</data>
 		</dict>
 		<key>Modules/ReactiveMoya.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Mkous40nnxx3y5oYhcEcK4Xvx0w=
+			fGe3jVxzA350yhQ6FeTkFRfS03I=
 			</data>
 			<key>hash2</key>
 			<data>
-			7ZszDhlFgkQUnPSKQ3tYR6VzinGL42kSdyLrdyh9tOw=
+			uieoVuoKx2bYzrJJePW6Fv6Mi2enwymi0RqHcriINI0=
 			</data>
 		</dict>
 		<key>Modules/ReactiveMoya.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gWf7Jl3/9wt86rvdlh63vHS0/8g=
+			6DKRONbkbAWKJtAJPvna6vi2wzo=
 			</data>
 			<key>hash2</key>
 			<data>
-			qjunx/xbNvrQ6C/MxZ7237STXiKu3IlQr9PWDBkA+2Q=
+			k08R8rrqxnJqcWaIReYImG+GzmhykLQvPMwRhe60y24=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

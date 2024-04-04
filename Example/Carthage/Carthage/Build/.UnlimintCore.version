@@ -1,26 +1,26 @@
 {
-  "commitish" : "2.1.0",
+  "commitish" : "2.1.4",
+  "iOS" : [
+    {
+      "container" : "UnlimintSDK_Core.xcframework",
+      "hash" : "b6f0b3936731e155165396e10b7b8d3538038739044b8aefbe54879ade57f3ae",
+      "identifier" : "ios-arm64",
+      "name" : "UnlimintSDK_Core",
+      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+    },
+    {
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)",
+      "name" : "UnlimintSDK_Core",
+      "container" : "UnlimintSDK_Core.xcframework",
+      "hash" : "c50731ef215d595f1079c456e2b0cad48c1af0395a3e8b3b398b5159e42e4eef"
+    }
+  ],
   "watchOS" : [
 
   ],
   "Mac" : [
 
-  ],
-  "iOS" : [
-    {
-      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)",
-      "hash" : "823708edbcf060d20959450e18563adb453ed481cb1eb7820b7d64d8485330bf",
-      "name" : "UnlimintSDK_Core",
-      "container" : "UnlimintSDK_Core.xcframework",
-      "identifier" : "ios-arm64"
-    },
-    {
-      "container" : "UnlimintSDK_Core.xcframework",
-      "identifier" : "ios-arm64_x86_64-simulator",
-      "hash" : "15191e44aa6979676525aab18f1f4d8771c40e7e0c6d183befc5a6c99dd0596f",
-      "name" : "UnlimintSDK_Core",
-      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
-    }
   ],
   "tvOS" : [
 
