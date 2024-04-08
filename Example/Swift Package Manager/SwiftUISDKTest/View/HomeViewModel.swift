@@ -16,11 +16,9 @@ class HomeViewModel : ObservableObject {
     var payWithTokenData : [Unlimint.PaymentMethods] = []
     var responseData : [AnyHashable : Any] = [:]
 
-    
     @Published var authorizationProvider: AuthorizationProvider = .init()
     @Published var networkService: NetworkService = .init()
-
-    @Published var price: Decimal  = 6
+    @Published var price: Decimal  = 1
     @Published var isShowStatus = false
     @Published var showSheet = false
     @Published var token : String = ""
@@ -32,10 +30,10 @@ class HomeViewModel : ObservableObject {
     @Published var isPayment = true
     @Published var get_card_Binding_Token = true
     
+    @Published var payWithCardToken = false
+
     var isCardTokenGenerated = false
     var failedStatus = false
-    @Published var payWithCardToken = false
-    
     
     var cardTokenData : PaymentTokenMethodData?
     
@@ -45,12 +43,13 @@ class HomeViewModel : ObservableObject {
         Unlimint.shared.skipStatusPages = false
         Unlimint.shared.getCardBindingToken = self.get_card_Binding_Token
         Unlimint.shared.recurringScheduleType = .sa
+        Unlimint.shared.enableApplePay = true
+        Unlimint.shared.applePayBundleIdentifier = "merchant.com.unlimit"
         themeSetup()
         prepareCheckoutData()
         addEventFailure()
         addEventSuccessful()
     }
-    
     
     private func addEventFailure() {
         
@@ -65,7 +64,6 @@ class HomeViewModel : ObservableObject {
             eventUnlimintSuccess(notification)
         }
     }
-    
     
     private func eventUnlimintSuccess(_ notification: Notification) {
         
@@ -187,12 +185,6 @@ class HomeViewModel : ObservableObject {
               }
            }
         }
-        
-        /*
-         Optional([AnyHashable("UnlimintSDK.bindingError"):
-         UnlimintSDK_SwiftUI.BindingErrors.decline,
-         AnyHashable("UnlimintSDK.method"): "binding"])
-         */
 
         // Do you stuff like
         // Card added susseccfully or Payment successfully complete.
@@ -227,6 +219,7 @@ extension HomeViewModel {
     
     func prepareCheckoutData() {
         
+        checkoutData.append(getApplePayDemoData())
         checkoutData.append(getCardDemoData())
         checkoutData.append(getCardTokenDemoData())
         checkoutData.append(getPaypalDemoData())
@@ -234,6 +227,26 @@ extension HomeViewModel {
     
     func getCheckoutDemoData() -> [Unlimint.PaymentMethods] {
         return checkoutData
+    }
+    
+    func getApplePayDemoData() -> Unlimint.PaymentMethods {
+        
+        return
+        
+        
+            .applePay(.init(with: "Apple Inc",
+                            paymentMethod: "applepay",
+                            customer: .init(homePhone: "",
+                                            workPhone: "",
+                                            email: "qwer@unlimint.com",
+                                            locale: "US",
+                                            phone: "+91 8750119811",
+                                            ipAddress: "",
+                                            customerID: ""),
+                            merchantOrder: .init(description: "ApplePay51208032024", id: "\(generateRandomOrderID())"),
+                            paymentData: ApplePayPaymentData.init(amount: price,
+                                                          currency: "USD",
+                                                          note: "note")))
     }
     
     func getCardDemoData() -> Unlimint.PaymentMethods {
@@ -263,31 +276,28 @@ extension HomeViewModel {
     
     func getRecurringCardPaymentData() -> Unlimint.PaymentMethods {
         
-        return
-        
-            .recurringPaymentCard(.init(with: "Facebook Inc",
-                                        paymentMethod: "BANKCARD",
-                                        customer: .init(
-                                                       email: "qwer@unlimint.com",
-                                                       locale: nil,
-                                                       
-                                                       customerID: "123456"),
-                                        merchantOrder: .init(description: "<description>", id: "\(generateRandomOrderID())"),
-                                        paymentData: PaymentData.init(amount: 100,
-                                                                      currency: "EUR",
-                                                                      note: nil,
-                                                                      dynamicDescriptor: nil,
-                                                                      transType: nil,
-                                                                      isEditable: false,
-                                                                      preauth: true),
-                                        cardAccount: nil,
-                                        recurringData: .init(amount: 100,
-                                                             currency: "EUR",
-                                                             contractNumber:"7481592630ARDS",
-                                                             transType: "01",
-                                                             initialAmount: 100,
-                                                             subscriptionStart: "2024-04-22",
-                                                             plan: .init(id: "rf2391UU"))))
+        return .recurringPaymentCard(.init(with: "Facebook Inc",
+                                           paymentMethod: "BANKCARD",
+                                           customer: .init(
+                                            email: "qwer@unlimint.com",
+                                            locale: nil,
+                                            customerID: "123456"),
+                                           merchantOrder: .init(description: "<description>", id: "\(generateRandomOrderID())"),
+                                           paymentData: PaymentData.init(amount: 100,
+                                                                         currency: "EUR",
+                                                                         note: nil,
+                                                                         dynamicDescriptor: nil,
+                                                                         transType: nil,
+                                                                         isEditable: false,
+                                                                         preauth: true),
+                                           cardAccount: nil,
+                                           recurringData: .init(amount: 100,
+                                                                currency: "EUR",
+                                                                contractNumber:"7481592630ARDS",
+                                                                transType: "01",
+                                                                initialAmount: 100,
+                                                                subscriptionStart: "2024-04-22",
+                                                                plan: .init(id: "rf2391UU"))))
         
     }
     
@@ -321,9 +331,7 @@ extension HomeViewModel {
     
     func getRecurringTokenData() -> Unlimint.PaymentMethods {
         
-        return
-        
-            .recurringCardToken(type: .mastercard, .init(with: "Card Merchant",
+        return .recurringCardToken(type: .mastercard, .init(with: "Card Merchant",
                                                          paymentMethod: "BANKCARD",
                                                          customer: .init(
                                                                         email: "test@unlimint.com",
@@ -368,7 +376,6 @@ extension HomeViewModel {
                           customer: .init(email: "test@unlimint.com")))
         
     }
-    
     
     func generateRandomOrderID() -> Int {
         
@@ -417,7 +424,6 @@ extension HomeViewModel {
 
        // Unlimint.shared.theme.addCardText = "key1".localized
         
-  
         
     }
 }
