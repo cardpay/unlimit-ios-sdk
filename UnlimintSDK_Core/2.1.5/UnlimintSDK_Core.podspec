@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UnlimintSDK_Core'
-  s.version          = '2.1.4'
+  s.version          = '2.1.5'
   s.summary          = 'A short description of UnlimintSDK.'
   s.homepage         = 'https://www.unlimit.com'
 
@@ -16,20 +16,12 @@ Pod::Spec.new do |s|
   s.author           = { 'parvezunlimint' => 'm.parvez@unlimit.com' }
   s.platform = :ios, '14.0'
   s.swift_version = '5.3'
-
-  s.source_files = [
-	'UnlimintSDK_SwiftUI/**/*.{swift,lproj,strings}',
-	'UnlimintSDK_SwiftUI/PrivacyInfo.xcprivacy'
-  ]
-
   s.source = {
       :http => "https://storage.googleapis.com/unl_ios/Cocoapod/2.1.5/UnlimintSDK_Core.zip"
   }
-
   s.vendored_frameworks = [
     'UnlimintSDK_Core.xcframework'
   ]
-  
   s.frameworks = 'UIKit'
   s.libraries = "z"
 

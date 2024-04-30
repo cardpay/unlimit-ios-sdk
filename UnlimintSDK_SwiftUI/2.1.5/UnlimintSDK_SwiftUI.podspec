@@ -8,19 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UnlimintSDK_SwiftUI'
-  s.version          = '2.1.4'
+  s.version          = '2.1.5'
   s.summary          = 'A short description of UnlimintSDK.'
   s.homepage         = 'https://www.unlimit.com'
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'parvezunlimint' => 'm.parvez@unlimit.com' }
-
-  s.source_files = 
-  [
-	'UnlimintSDK_SwiftUI/**/*.{swift,lproj,strings}' , 
-	'UnlimintSDK_SwiftUI/PrivacyInfo.xcprivacy'
-  ]
-
   s.platform = :ios, '14.0'
   s.swift_version = '5.3'
 

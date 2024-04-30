@@ -1,0 +1,11 @@
+framework module UnlimintSDK_Core {
+  umbrella header "UnlimintSDK_Core.h"
+  export *
+
+  module * { export * }
+}
+
+module UnlimintSDK_Core.Swift {
+  header "UnlimintSDK_Core-Swift.h"
+  requires objc
+}

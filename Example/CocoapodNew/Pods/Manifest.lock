@@ -4,15 +4,15 @@ PODS:
     - Moya/Core (= 15.0.0)
   - Moya/Core (15.0.0):
     - Alamofire (~> 5.0)
-  - Swinject (2.8.5)
-  - UnlimintSDK_Core (2.1.4):
+  - Swinject (2.8.8)
+  - UnlimintSDK_Core (2.1.5):
     - Moya (~> 15.0.0)
-  - UnlimintSDK_SwiftUI (2.1.4):
+  - UnlimintSDK_SwiftUI (2.1.5):
     - Swinject
-    - UnlimintSDK_Core (= 2.1.4)
+    - UnlimintSDK_Core (= 2.1.5)
 
 DEPENDENCIES:
-  - UnlimintSDK_SwiftUI (= 2.1.4)
+  - UnlimintSDK_SwiftUI (= 2.1.5)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -25,10 +25,10 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
   Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
-  Swinject: 79eb1aba4cd25e1b649492e3600c878af2484bfc
-  UnlimintSDK_Core: 0e4ab9bd387fd06b4788259140a633a6999e77db
-  UnlimintSDK_SwiftUI: 1fccd952010fff4fabe15853c2be223bdcd4ea23
+  Swinject: 2943463cdd58b49f114213bf1ce4a09f374828e7
+  UnlimintSDK_Core: 591e98d36b516f57d1ae86d90696b776887caf51
+  UnlimintSDK_SwiftUI: c103c2abe5ead7c479953177225197d3de7d0c74
 
-PODFILE CHECKSUM: 1a0e86dfe4828518f9f978613cbc603335c3dc90
+PODFILE CHECKSUM: 21e0cc1cf07dfcdbab26d41c20070c65985d0b90
 
 COCOAPODS: 1.15.2
