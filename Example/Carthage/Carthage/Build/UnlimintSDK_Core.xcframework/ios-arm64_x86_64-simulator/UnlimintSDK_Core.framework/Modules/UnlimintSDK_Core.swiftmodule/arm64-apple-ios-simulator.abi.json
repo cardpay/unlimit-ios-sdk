@@ -15857,1925 +15857,1925 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 352,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 500,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 352,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 500,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 690,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringTokenPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 690,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 920,
       "length": 30,
       "value": "\"unauthorized token: \""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 949,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1004,
       "length": 25,
       "value": "\"Security error:\n\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1028,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1084,
       "length": 21,
       "value": "\"Service unavailable\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1164,
       "length": 53,
       "value": "\"InvalidData: \""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1216,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1282,
       "length": 51,
       "value": "\"Network connection: \""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1332,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1389,
       "length": 41,
       "value": "\"Internal: \""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1429,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1740,
       "length": 6,
       "value": "\"info\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "StringLiteral",
       "offset": 1748,
       "length": 26,
       "value": "\"Serialisation data error\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 1924,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 1930,
       "length": 3,
       "value": "399"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 1954,
       "length": 3,
       "value": "402"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 1960,
       "length": 3,
       "value": "499"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 2057,
       "length": 3,
       "value": "400"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 2137,
       "length": 3,
       "value": "500"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/UnlimintErrors.swift",
       "kind": "IntegerLiteral",
       "offset": 2143,
       "length": 3,
       "value": "599"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/ApplePayDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/ApplePayDomain.swift",
       "kind": "StringLiteral",
       "offset": 1002,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/success\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/ApplePayDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/ApplePayDomain.swift",
       "kind": "StringLiteral",
       "offset": 1070,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/decline\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/ApplePayDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/ApplePayDomain.swift",
       "kind": "Dictionary",
       "offset": 3741,
       "length": 82,
       "value": "[(\"info\", \"Serialisation data error\")]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentTokenMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentTokenMethodData.swift",
       "kind": "StringLiteral",
       "offset": 403,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentTokenMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentTokenMethodData.swift",
       "kind": "StringLiteral",
       "offset": 403,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 253,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 253,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaypalRequest.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardDomain.swift",
       "kind": "StringLiteral",
       "offset": 1300,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/success\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardDomain.swift",
       "kind": "StringLiteral",
       "offset": 1368,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/decline\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardDomain.swift",
       "kind": "Dictionary",
       "offset": 3357,
       "length": 82,
       "value": "[(\"info\", \"Serialisation data error\")]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 12,
       "value": "\"home_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 331,
       "length": 12,
       "value": "\"work_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 388,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 419,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 12,
       "value": "\"home_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 331,
       "length": 12,
       "value": "\"work_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 388,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentCustomer.swift",
       "kind": "StringLiteral",
       "offset": 419,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
       "kind": "StringLiteral",
       "offset": 305,
       "length": 13,
       "value": "\"addr_line_1\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 13,
       "value": "\"addr_line_2\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
       "kind": "StringLiteral",
       "offset": 305,
       "length": 13,
       "value": "\"addr_line_1\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/BillingAddress.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 13,
       "value": "\"addr_line_2\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
       "kind": "StringLiteral",
       "offset": 245,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
       "kind": "StringLiteral",
       "offset": 245,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponse.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 303,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 347,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 303,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 347,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 623,
       "length": 16,
       "value": "\"encrypted_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/ApplePayPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 623,
       "length": 16,
       "value": "\"encrypted_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 10,
       "value": "\"customer\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 414,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 10,
       "value": "\"customer\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 414,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequest.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 12,
       "value": "\"home_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
       "kind": "StringLiteral",
       "offset": 381,
       "length": 12,
       "value": "\"work_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 12,
       "value": "\"home_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/BindingCustomer.swift",
       "kind": "StringLiteral",
       "offset": 381,
       "length": 12,
       "value": "\"work_phone\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
       "kind": "Array",
       "offset": 458,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
       "kind": "Dictionary",
       "offset": 530,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
       "kind": "Dictionary",
       "offset": 615,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
       "kind": "Array",
       "offset": 979,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
       "kind": "Dictionary",
       "offset": 1051,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Encodable\/Encodable+json.swift",
       "kind": "Dictionary",
       "offset": 1136,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Request.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Request.swift",
       "kind": "StringLiteral",
       "offset": 669,
       "length": 25,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss'Z\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Request.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Request.swift",
       "kind": "IntegerLiteral",
       "offset": 749,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayRespose.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 253,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 341,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 10,
       "value": "\"customer\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 253,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 341,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 10,
       "value": "\"customer\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/BindingRequestToken.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 396,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringPaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 396,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 386,
       "length": 9,
       "value": "\"Test CY\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 431,
       "length": 26,
       "value": "\"Test CY _non3ds_bindings\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 5,
       "value": "\"NSK\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 386,
       "length": 9,
       "value": "\"Test CY\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 431,
       "length": 26,
       "value": "\"Test CY _non3ds_bindings\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 5,
       "value": "\"NSK\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 947,
       "length": 21,
       "value": "\"sandbox.cardpay.com\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 1007,
       "length": 23,
       "value": "\"test.cardpay-test.com\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 1069,
       "length": 26,
       "value": "\"waf-nsk.cardpay-test.com\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 1411,
       "length": 29,
       "value": "\"https:\/\/sandbox.cardpay.com\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 1630,
       "length": 31,
       "value": "\"https:\/\/test.cardpay-test.com\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Environments.swift",
       "kind": "StringLiteral",
       "offset": 1701,
       "length": 34,
       "value": "\"https:\/\/waf-nsk.cardpay-test.com\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Unlimit_Core.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Unlimit_Core.swift",
       "kind": "BooleanLiteral",
       "offset": 246,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Unlimit_Core.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Unlimit_Core.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Checkout\/CheckoutResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Checkout\/CheckoutResponse.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 17,
       "value": "\"payment_methods\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Checkout\/CheckoutResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Checkout\/CheckoutResponse.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 17,
       "value": "\"payment_methods\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/TokenizedCard.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/TokenizedCard.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 15,
       "value": "\"security_code\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/TokenizedCard.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/TokenizedCard.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 15,
       "value": "\"security_code\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 443,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 443,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 607,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 607,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 1286,
       "length": 20,
       "value": "\"dynamic_descriptor\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 1336,
       "length": 12,
       "value": "\"trans_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 1384,
       "length": 16,
       "value": "\"generate_token\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 1286,
       "length": 20,
       "value": "\"dynamic_descriptor\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 1336,
       "length": 12,
       "value": "\"trans_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 1384,
       "length": 16,
       "value": "\"generate_token\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 368,
       "length": 13,
       "value": "\"addr_line_1\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 407,
       "length": 13,
       "value": "\"addr_line_2\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 368,
       "length": 13,
       "value": "\"addr_line_1\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 407,
       "length": 13,
       "value": "\"addr_line_2\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 2487,
       "length": 18,
       "value": "\"shipping_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 2487,
       "length": 18,
       "value": "\"shipping_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 3448,
       "length": 20,
       "value": "\"dynamic_descriptor\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 3494,
       "length": 12,
       "value": "\"trans_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 3448,
       "length": 20,
       "value": "\"dynamic_descriptor\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "StringLiteral",
       "offset": 3494,
       "length": 12,
       "value": "\"trans_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "BooleanLiteral",
       "offset": 4874,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentMerchantOrder.swift",
       "kind": "BooleanLiteral",
       "offset": 4913,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 351,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 351,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 1778,
       "length": 16,
       "value": "\"encrypted_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/ApplePay\/ApplePayPaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 1778,
       "length": 16,
       "value": "\"encrypted_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
       "kind": "StringLiteral",
       "offset": 259,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
       "kind": "StringLiteral",
       "offset": 259,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Binding\/CardBindingResponseToken.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Card.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Card.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 15,
       "value": "\"security_code\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Card.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Card.swift",
       "kind": "StringLiteral",
       "offset": 243,
       "length": 15,
       "value": "\"security_code\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Card.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Card.swift",
       "kind": "StringLiteral",
       "offset": 1068,
       "length": 9,
       "value": "\"MM\/yyyy\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardRecurringDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardRecurringDomain.swift",
       "kind": "StringLiteral",
       "offset": 1363,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/success\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardRecurringDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardRecurringDomain.swift",
       "kind": "StringLiteral",
       "offset": 1431,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/decline\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardRecurringDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PaymentCardRecurringDomain.swift",
       "kind": "Dictionary",
       "offset": 3474,
       "length": 82,
       "value": "[(\"info\", \"Serialisation data error\")]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
       "kind": "StringLiteral",
       "offset": 240,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
       "kind": "StringLiteral",
       "offset": 240,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringResponse.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
       "kind": "IntegerLiteral",
       "offset": 2445,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
       "kind": "IntegerLiteral",
       "offset": 2845,
       "length": 3,
       "value": "401"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 3167,
       "length": 10,
       "value": "\"Unlimint\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Services\/NetworkService.swift",
       "kind": "Array",
       "offset": 3420,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 304,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 304,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 453,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 640,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/PaymentTokenRequest.swift",
       "kind": "StringLiteral",
       "offset": 640,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PayPalDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PayPalDomain.swift",
       "kind": "StringLiteral",
       "offset": 943,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/success\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PayPalDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PayPalDomain.swift",
       "kind": "StringLiteral",
       "offset": 1011,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/decline\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PayPalDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/PayPalDomain.swift",
       "kind": "Dictionary",
       "offset": 3497,
       "length": 82,
       "value": "[(\"info\", \"Serialisation data error\")]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/String\/String+Json.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/String\/String+Json.swift",
       "kind": "Array",
       "offset": 299,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Global.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Global.swift",
       "kind": "StringLiteral",
       "offset": 154,
       "length": 31,
       "value": "\"com.unlimint.UnlimintSDK-Core\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 303,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 347,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 389,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 495,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 16,
       "value": "\"merchant_order\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 303,
       "length": 16,
       "value": "\"payment_method\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 347,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 389,
       "length": 14,
       "value": "\"card_account\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 13,
       "value": "\"return_urls\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 495,
       "length": 16,
       "value": "\"recurring_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 662,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/Requests\/RecurringPaymentRequest.swift",
       "kind": "StringLiteral",
       "offset": 662,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
       "kind": "StringLiteral",
       "offset": 993,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/success\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
       "kind": "StringLiteral",
       "offset": 1061,
       "length": 34,
       "value": "\"https:\/\/www.unlimint.com\/decline\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
       "kind": "StringLiteral",
       "offset": 2394,
       "length": 15,
       "value": "\"MR CARDHOLDER\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
       "kind": "Dictionary",
       "offset": 3598,
       "length": 90,
       "value": "[(\"info\", \"Serialisation data error\")]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
       "kind": "StringLiteral",
       "offset": 4529,
       "length": 15,
       "value": "\"MR CARDHOLDER\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Domains\/BindingCardDomain.swift",
       "kind": "Dictionary",
       "offset": 5733,
       "length": 90,
       "value": "[(\"info\", \"Serialisation data error\")]"
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentWithNewCard\/PaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentWithNewCard\/PaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentWithNewCard\/PaymentMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentWithNewCard\/PaymentMethodData.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringCustomer.swift",
       "kind": "StringLiteral",
       "offset": 360,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringCustomer.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringCustomer.swift",
       "kind": "StringLiteral",
       "offset": 360,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 215,
       "length": 12,
       "value": "\"return_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 254,
       "length": 13,
       "value": "\"success_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 13,
       "value": "\"decline_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 333,
       "length": 12,
       "value": "\"cancel_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 15,
       "value": "\"inprocess_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 215,
       "length": 12,
       "value": "\"return_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 254,
       "length": 13,
       "value": "\"success_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 13,
       "value": "\"decline_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 333,
       "length": 12,
       "value": "\"cancel_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/ReturnUrls.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 15,
       "value": "\"inprocess_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 14,
       "value": "\"payment_data\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 14,
       "value": "\"redirect_url\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 998,
       "length": 25,
       "value": "\"\/api\/mobile\/cardbinding\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 1071,
       "length": 25,
       "value": "\"\/api\/mobile\/cardbinding\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 1139,
       "length": 21,
       "value": "\"\/api\/mobile\/payment\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 1204,
       "length": 29,
       "value": "\"\/api\/mobile\/payment_methods\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 1278,
       "length": 23,
       "value": "\"\/api\/mobile\/recurring\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2369,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2402,
       "length": 9,
       "value": "\"unknown\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2510,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2527,
       "length": 17,
       "value": "\"Mobile \""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2543,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2558,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2572,
       "length": 38,
       "value": "\"UnlimintMobileSdk\/\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Networking\/ApiEndpoints.swift",
       "kind": "StringLiteral",
       "offset": 2605,
       "length": 1,
       "value": "\"\/IOS\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/CardPaymentSystem.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/CardPaymentSystem.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 15,
       "value": "\"unknownSystem\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/CardPaymentSystem.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/CardPaymentSystem.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 15,
       "value": "\"unknownSystem\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/UseCases\/UrlValidationUseCase.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/UseCases\/UrlValidationUseCase.swift",
       "kind": "StringLiteral",
       "offset": 437,
       "length": 9,
       "value": "\"cardpay\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/UseCases\/UrlValidationUseCase.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/UseCases\/UrlValidationUseCase.swift",
       "kind": "StringLiteral",
       "offset": 508,
       "length": 10,
       "value": "\"unlimint\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 17,
       "value": "\"contract_number\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 16,
       "value": "\"scheduled_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 12,
       "value": "\"trans_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 432,
       "length": 16,
       "value": "\"initial_amount\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 20,
       "value": "\"subscription_start\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 17,
       "value": "\"contract_number\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 16,
       "value": "\"scheduled_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 12,
       "value": "\"trans_type\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 432,
       "length": 16,
       "value": "\"initial_amount\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 20,
       "value": "\"subscription_start\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/Recurring\/RecurringData.swift",
       "kind": "StringLiteral",
       "offset": 667,
       "length": 5,
       "value": "\"cit\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/PaymentTokenMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/PaymentTokenMethodData.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/PaymentTokenMethodData.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Common\/Entities\/Payment\/PaymentToken\/PaymentTokenMethodData.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 17,
       "value": "\"billing_address\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Error\/NSError+Unlimint.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Error\/NSError+Unlimint.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 10,
       "value": "\"unlimint\""
     },
     {
-      "filePath": "\/Users\/parvez\/Desktop\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Error\/NSError+Unlimint.swift",
+      "filePath": "\/Users\/parvez\/Documents\/SourceCode\/cardpaysdk-ios\/Carthage_Project\/UnlimintSDK-Core\/UnlimintSDK-Core\/Extensions\/Error\/NSError+Unlimint.swift",
       "kind": "IntegerLiteral",
       "offset": 255,
       "length": 3,

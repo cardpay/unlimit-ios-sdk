@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/parvez/Library/Developer/Xcode/DerivedData/UnlimintSDK-Core-ctdmglxoewyooifzgdytruuusjbp/Build/Products/Release-iphonesimulator/UnlimintSDK_Core.framework/UnlimintSDK_Core'
+binary-path:     '/Users/parvez/Library/Developer/Xcode/DerivedData/UnlimintSDK-Core-exfvayhqhyhjzjhbqzgqxtdxpqfe/Build/Products/Release-iphonesimulator/UnlimintSDK_Core.framework/UnlimintSDK_Core'
 relocations:
   - { offsetInCU: 0x34, offset: 0x303C1, size: 0x8, addend: 0x0, symName: _UnlimintSDK_CoreVersionString, symObjAddr: 0x0, symBinAddr: 0x889F0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x303F6, size: 0x8, addend: 0x0, symName: _UnlimintSDK_CoreVersionNumber, symObjAddr: 0x40, symBinAddr: 0x88A30, symSize: 0x0 }
@@ -2462,7 +2462,7 @@ relocations:
   - { offsetInCU: 0x740, offset: 0x4D11C, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core20PaypalPaymentRequestVACSEAAWl', symObjAddr: 0x1870, symBinAddr: 0x659E0, symSize: 0x30 }
   - { offsetInCU: 0x754, offset: 0x4D130, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core15PaymentResponseVWOh', symObjAddr: 0x1B20, symBinAddr: 0x65B90, symSize: 0x30 }
   - { offsetInCU: 0x27, offset: 0x4D387, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core15frameworkBundle_WZ', symObjAddr: 0x0, symBinAddr: 0x65BF0, symSize: 0x72 }
-  - { offsetInCU: 0x4B, offset: 0x4D3AB, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core15frameworkBundleSo8NSBundleCvp', symObjAddr: 0x13E0, symBinAddr: 0xB8B58, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x4D3AB, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core15frameworkBundleSo8NSBundleCvp', symObjAddr: 0x1418, symBinAddr: 0xB8B58, symSize: 0x0 }
   - { offsetInCU: 0x59, offset: 0x4D3B9, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core15frameworkBundle_WZ', symObjAddr: 0x0, symBinAddr: 0x65BF0, symSize: 0x72 }
   - { offsetInCU: 0x2B, offset: 0x4D4E7, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core23RecurringPaymentRequestVwxx', symObjAddr: 0x0, symBinAddr: 0x65C70, symSize: 0x200 }
   - { offsetInCU: 0x43, offset: 0x4D4FF, size: 0x8, addend: 0x0, symName: '_$s16UnlimintSDK_Core23RecurringPaymentRequestVwxx', symObjAddr: 0x0, symBinAddr: 0x65C70, symSize: 0x200 }

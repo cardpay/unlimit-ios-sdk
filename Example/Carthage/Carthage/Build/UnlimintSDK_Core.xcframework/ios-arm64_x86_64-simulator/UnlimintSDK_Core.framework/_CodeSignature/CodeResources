@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		6yWITxSNeUPMabKi/YvAF1ILt6o=
+		0AS5/rAoy+XDl0aZC9hm+5Thf1E=
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		NMBAXdgkdK/dF66S6W5AmP7IZdI=
+		ZRZdjVgAKQEcNYOjOvKSDFJWHYs=
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xNIEMB10g4IcEUcfRG7B8Yn2tqE=
+		RXwWWWkBShckwDsQnS/3lx8zbAg=
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5KeDtSHjJ9NKaskt0KMr1HCoefA=
+		LxcJtmmz3QYne4qk1kA9zRGERdA=
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xNIEMB10g4IcEUcfRG7B8Yn2tqE=
+		RXwWWWkBShckwDsQnS/3lx8zbAg=
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,15 @@
 		</data>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wPQLk/vdQHDsBeH0IuQzP9YGVwQ=
+		jsJ41f0HLnbZc+/td1sw8FgoRLQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		RSIadm/VcvGmhqoQzZjh1+UVb3w=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		zIo5jEPtngXGVFoTOASSQTGL6Aw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -89,21 +93,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i1fkbxzgwzHSL9/L2JPrAtmDLsQCj4pBodswGbO76Bo=
+			FgadpBBeKKxZre5csA153aHpkkBsy2p5XcOAOBgrB+s=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SB0QILjHdnQ/ujKRE6sBOedkoIaSf/Gx2fH5tpxDtfk=
+			jJjC6t+lnGopG+vn1OqWucDWM/KIggqfcKwi7YTdDIs=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKAbVj9IUlM6xVVAqzoe5ZFwgnkBYCuTpJk+N5OPN40=
+			FPtIrFAsqHGswidTgAIKafZPjf+bbj1YnKRsOzswFj0=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -131,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			59owD+W3zVYlKdYrLSYJIlDrCDxNhMKv6Dq5K1wPAWI=
+			FFCdd9g+AWCY8WBlVSstu1cLlWbz/59RDrLo35qP8bg=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKAbVj9IUlM6xVVAqzoe5ZFwgnkBYCuTpJk+N5OPN40=
+			FPtIrFAsqHGswidTgAIKafZPjf+bbj1YnKRsOzswFj0=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_Core.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -166,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7nOA+lWE97wLeOWflbzX2hg/iWmGcH3A0QzdcUWhkdU=
+			evcmMHzKU5ARgh358Ct8EkEXdMHUtnIJJuXKhBcHklA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -174,6 +178,13 @@
 			<key>hash2</key>
 			<data>
 			rmKtPsdVkKl65nZjCneyq768eeaTwku822fnRlkLYPw=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Aeby+NiACBoxDSU2M/RKmBAsjqltfLqbYIJzPoPitIQ=
 			</data>
 		</dict>
 	</dict>

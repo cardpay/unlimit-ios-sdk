@@ -58,15 +58,15 @@
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		uOOjZa03j8MR5hMC79GLo47hE/Y=
+		5YZO76lM9FdKUonXkys6FbobRmc=
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		giZE9pQZxSCI11BcGlbDALJSc9Y=
+		J64Za6A5Qa45eN6rm8/ZdjvH4yk=
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		tUYVLn/rUvAgMXH06tBsW6P62+k=
+		dxtyzfX2S6ruTZdry0eXcLiDTYw=
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OpIFMtwn2QGFsNVfumSxCz0jHck=
+		zxBuukbWr6dnxIrN+nlSvt19BUM=
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		tUYVLn/rUvAgMXH06tBsW6P62+k=
+		dxtyzfX2S6ruTZdry0eXcLiDTYw=
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -102,11 +102,15 @@
 		</data>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PARSVglkUpWA8rMVytk4sL9CoAo=
+		6jvFrl6tbqeHqLQXxR68XZ3lQlc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		9dDGPMTYw5HFNYGBYg6OQkegX+Q=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		zIo5jEPtngXGVFoTOASSQTGL6Aw=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -235,21 +239,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kt+eJVFkHBtfWQ3LbKr5fyAKPXmrjIkiLBolU9xwurg=
+			lDJZ3+z9rhIHOPijN7WzsXzPEFuYIcU+7JiYZazdAuw=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H0azZYMk1imNqmXADgF0iZ19W0D3+pfA7qDeG06xwbo=
+			O5fdNdEfCGt+XMqoheqiFu0UJVvHfYnyEy8Gl9J+7FA=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4W4ciuzvOgB1M3hIkF4aaohvej2RqeJp5OvNXstT4fk=
+			l1IBhlkkcw/ziP3C0efZQQEUNwV4so/m6bEa1MOxSfE=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -277,14 +281,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DWi8oB7VhRtdH0ubAwdqtfeBYWwzEHRq5fmryPhWCJs=
+			M+Sjm6zOpf02rOBBJmC7umNlRDdIdo0HwRTkXBX1vVE=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4W4ciuzvOgB1M3hIkF4aaohvej2RqeJp5OvNXstT4fk=
+			l1IBhlkkcw/ziP3C0efZQQEUNwV4so/m6bEa1MOxSfE=
 			</data>
 		</dict>
 		<key>Modules/UnlimintSDK_SwiftUI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -312,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RHRAd85uEHm3wDG7JN2Nyfv6uu/frmGvycgcxwzlsp0=
+			jwLx1F1qGgy+e4QusM50YihD32Fb5tUDxwliJQj0SR8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -320,6 +324,13 @@
 			<key>hash2</key>
 			<data>
 			4iPFU+ElxnWhtXQO/pBWXEsxA9P05i61ocdieS8tBxU=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Aeby+NiACBoxDSU2M/RKmBAsjqltfLqbYIJzPoPitIQ=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
