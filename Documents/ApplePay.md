@@ -79,3 +79,7 @@ Unlimint.shared.checkout(for: homeViewModel.token, with: homeViewModel.getAppleP
 
 ### Checkout methods Retruns
 - `View` It retuens a view 
+
+
+## Screenshot
+![Checkout Apple Pay](/Documents/Images/NewCheckout.png)
