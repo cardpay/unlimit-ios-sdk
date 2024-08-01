@@ -33,4 +33,6 @@ Pod::Spec.new do |s|
   s.dependency 'Swinject'
   s.dependency 'UnlimintSDK_Core', '~> 2.1.4'
   s.source_files = "UnlimintSDK_SwiftUI/**/*.{swift,lproj,strings}"
+  s.ios.resource_bundle            = { 'StripeBundle' => ['Stripe/StripeiOS/Resources/**/*.{lproj,png,xcassets}', 'Stripe/StripeiOS/PrivacyInfo.xcprivacy'] }
+
 end

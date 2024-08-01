@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22F8EC12AAA8474170B036DB /* Pods_SwiftUISDKTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E28092DC5E35D4006D741135 /* Pods_SwiftUISDKTest.framework */; };
+		8FACBC8EF6BD78D0542F18D5 /* Pods_SwiftUISDKTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E28092DC5E35D4006D741135 /* Pods_SwiftUISDKTest.framework */; };
 		B304319E29A340CD008DE0FF /* SwiftUISDKTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304319D29A340CD008DE0FF /* SwiftUISDKTestApp.swift */; };
 		B30431A029A340CD008DE0FF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304319F29A340CD008DE0FF /* HomeView.swift */; };
 		B30431A229A340CE008DE0FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B30431A129A340CE008DE0FF /* Assets.xcassets */; };
@@ -93,7 +93,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22F8EC12AAA8474170B036DB /* Pods_SwiftUISDKTest.framework in Frameworks */,
+				8FACBC8EF6BD78D0542F18D5 /* Pods_SwiftUISDKTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,7 +238,6 @@
 				279B591FD5F52435C2590E05 /* Pods-SwiftUISDKTest.debug.xcconfig */,
 				555EC64C6295E33B3DD3C521 /* Pods-SwiftUISDKTest.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -249,12 +248,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B30431BE29A340CE008DE0FF /* Build configuration list for PBXNativeTarget "SwiftUISDKTest" */;
 			buildPhases = (
-				951BA9A8DD3D81DA71AF5E20 /* [CP] Check Pods Manifest.lock */,
+				02D1F6D3564B81B9FB25E574 /* [CP] Check Pods Manifest.lock */,
 				B304319629A340CD008DE0FF /* Sources */,
 				B304319729A340CD008DE0FF /* Frameworks */,
 				B304319829A340CD008DE0FF /* Resources */,
 				B3B359B22B7CE19900F3FB34 /* Embed Frameworks */,
-				D7B429E9A44ED67967192B8D /* [CP] Embed Pods Frameworks */,
+				D4D2D54B6FEE1A0BECB2F408 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -375,7 +374,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		951BA9A8DD3D81DA71AF5E20 /* [CP] Check Pods Manifest.lock */ = {
+		02D1F6D3564B81B9FB25E574 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -397,7 +396,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D7B429E9A44ED67967192B8D /* [CP] Embed Pods Frameworks */ = {
+		D4D2D54B6FEE1A0BECB2F408 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -604,7 +603,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
 				CODE_SIGN_ENTITLEMENTS = SwiftUISDKTest/SwiftUISDKTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2.1.4;
+				CURRENT_PROJECT_VERSION = 2.1.6;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUISDKTest/Preview Content\"";
 				DEVELOPMENT_TEAM = CZRPTJK8H2;
 				ENABLE_PREVIEWS = YES;
@@ -620,7 +619,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.1.4;
+				MARKETING_VERSION = 2.1.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.unlimint.demosdk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -637,7 +636,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
 				CODE_SIGN_ENTITLEMENTS = SwiftUISDKTest/SwiftUISDKTest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2.1.4;
+				CURRENT_PROJECT_VERSION = 2.1.6;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUISDKTest/Preview Content\"";
 				DEVELOPMENT_TEAM = CZRPTJK8H2;
 				ENABLE_PREVIEWS = YES;
@@ -653,7 +652,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.1.4;
+				MARKETING_VERSION = 2.1.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.unlimint.demosdk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;

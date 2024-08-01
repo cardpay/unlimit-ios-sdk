@@ -20,11 +20,10 @@ Pod::Spec.new do |s|
   s.source = {
       :http => "https://storage.googleapis.com/unl_ios/Cocoapod/2.1.5/UnlimintSDK_SwiftUI.zip"
   }
-
   s.vendored_frameworks = [
     'UnlimintSDK_SwiftUI.xcframework'
-  ]
-  
+  ] 
+ 
   s.weak_frameworks = "SwiftUI"
   s.frameworks = 'UIKit'
   s.libraries = "z"
