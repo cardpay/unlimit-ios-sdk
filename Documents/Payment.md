@@ -30,6 +30,11 @@ Unlimint.shared.getCardBindingToken = self.get_card_Binding_Token
 ``` Swift
 Unlimint.shared.recurringScheduleType = .sa
 ```
+### Will be used for cardholdername enable/disable
+``` Swift
+Unlimint.shared.disableCardHolderName = false
+```
+
 
 ## Example
 
