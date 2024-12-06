@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/ReactiveSwift.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ObfkuXppN+5us+qTqBOf+JFGhC4=
+		GWsuFEvT9ihGY/tM/vfK/A6/FeM=
 		</data>
 		<key>Modules/ReactiveSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		rC5uAMZNL+oxPCcyW+AwDaNPWTU=
+		3QLEkaVlgOT2207uvwwM8JiuvdM=
 		</data>
 		<key>Modules/ReactiveSwift.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ObfkuXppN+5us+qTqBOf+JFGhC4=
+			GWsuFEvT9ihGY/tM/vfK/A6/FeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VTPbK+jytr2O9MyuUQ414NhKVaGU9Jx4JqH51MW0z0Q=
+			skCOFHDKcHJ1CLnWtdVX4zGs93N5uszl0njYRkL8+ew=
 			</data>
 		</dict>
 		<key>Modules/ReactiveSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rC5uAMZNL+oxPCcyW+AwDaNPWTU=
+			3QLEkaVlgOT2207uvwwM8JiuvdM=
 			</data>
 			<key>hash2</key>
 			<data>
-			JAXAQFhBZww/+aSzjXjIJYq0vbCJgWHg1Uk59SXcqbY=
+			H+6xsLLb50RY2HRW1Qaz4KGXAqnhWjiRcfVJRXfsqf8=
 			</data>
 		</dict>
 		<key>Modules/ReactiveSwift.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

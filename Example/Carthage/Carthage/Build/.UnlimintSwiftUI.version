@@ -1,28 +1,28 @@
 {
-  "commitish" : "2.1.5",
-  "Mac" : [
-
-  ],
+  "commitish" : "3.0.0",
   "iOS" : [
     {
-      "name" : "UnlimintSDK_SwiftUI",
       "identifier" : "ios-arm64",
+      "hash" : "cdcba11878912fc65093f1797c1afa809b985afc4b499d1003b228971917f8d1",
       "container" : "UnlimintSDK_SwiftUI.xcframework",
       "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)",
-      "hash" : "fb07c9e425dd7f4da388a07d650cd8521834d27472650e1e76846843f84ed1a9"
+      "name" : "UnlimintSDK_SwiftUI"
     },
     {
-      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)",
-      "identifier" : "ios-arm64_x86_64-simulator",
       "name" : "UnlimintSDK_SwiftUI",
       "container" : "UnlimintSDK_SwiftUI.xcframework",
-      "hash" : "21b9559e3125830927e41eea65caff45061a8ac815381ff605678fe86609d031"
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "hash" : "d81c8b067f7d88baf1b4112d2ed230fd1f3d3dbd70e81b9d14c2dfd380b473fc",
+      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
     }
   ],
   "tvOS" : [
 
   ],
   "watchOS" : [
+
+  ],
+  "Mac" : [
 
   ]
 }

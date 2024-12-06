@@ -30,7 +30,8 @@ extension UnlimintSDK_Core.ApplePayDomain {
   public func pay(data: UnlimintSDK_Core.ApplePayPaymentMethodData, completion: @escaping UnlimintSDK_Core.ApplePayDomain.ApplePayClosure)
   public func onUserNavigateTo(url: Foundation.URL) -> UnlimintSDK_Core.WebNavigationResults
 }
-public struct RecurringPaymentTokenMethodData : Swift.Codable {
+public struct RecurringPaymentTokenMethodData : Swift.Codable, Swift.Identifiable {
+  public var id: Swift.String
   public struct CardAccount : Swift.Codable {
     public let token: Swift.String
     public let pan: Swift.String
@@ -48,6 +49,7 @@ public struct RecurringPaymentTokenMethodData : Swift.Codable {
   public let cardAccount: UnlimintSDK_Core.RecurringPaymentTokenMethodData.CardAccount
   public let recurringData: UnlimintSDK_Core.RecurringData
   public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.RecurringCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.RecurringPaymentTokenMethodData.CardAccount, recurringData: UnlimintSDK_Core.RecurringData)
+  public typealias ID = Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -124,13 +126,15 @@ public struct BindingCustomer : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-public struct PaypalPaymentMethodData : Swift.Codable {
+public struct PaypalPaymentMethodData : Swift.Codable, Swift.Identifiable {
+  public var id: Swift.String
   public let merchantName: Swift.String
   public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
   public let paymentMethod: Swift.String
   public let paymentData: UnlimintSDK_Core.PaymentData
   public var customer: UnlimintSDK_Core.PaypalPaymentCustomer
   public init(merchantName: Swift.String, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentMethod: Swift.String, paymentData: UnlimintSDK_Core.PaymentData, customer: UnlimintSDK_Core.PaypalPaymentCustomer)
+  public typealias ID = Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -178,7 +182,8 @@ public struct CheckCardAccount : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-public struct RecurringPaymentMethodData : Swift.Codable {
+public struct RecurringPaymentMethodData : Swift.Codable, Swift.Identifiable {
+  public var id: Swift.String
   public struct CardAccount : Swift.Codable {
     public let token: Swift.String
     public let pan: Swift.String
@@ -196,14 +201,13 @@ public struct RecurringPaymentMethodData : Swift.Codable {
   public let cardAccount: UnlimintSDK_Core.RecurringPaymentMethodData.CardAccount?
   public let recurringData: UnlimintSDK_Core.RecurringData
   public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.RecurringCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.RecurringPaymentMethodData.CardAccount?, recurringData: UnlimintSDK_Core.RecurringData)
+  public typealias ID = Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
 public enum Environments : Swift.String, Swift.CaseIterable {
   case sandbox
-  case testCyprus
-  case testCyprusNon3dsBinding
-  case nsk
+  case production
   public init?(rawValue: Swift.String)
   public typealias AllCases = [UnlimintSDK_Core.Environments]
   public typealias RawValue = Swift.String
@@ -269,7 +273,8 @@ public struct PaymentData : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-public struct ApplePayPaymentMethodData : Swift.Codable {
+public struct ApplePayPaymentMethodData : Swift.Codable, Swift.Identifiable {
+  public var id: Swift.String
   public struct CardAccount : Swift.Codable {
     public let billingAddress: UnlimintSDK_Core.BillingAddress?
     public init(token: Swift.String?, billingAddress: UnlimintSDK_Core.BillingAddress?)
@@ -282,6 +287,7 @@ public struct ApplePayPaymentMethodData : Swift.Codable {
   public let merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder
   public var paymentData: UnlimintSDK_Core.ApplePayPaymentData
   public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.PaymentCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.ApplePayPaymentData)
+  public typealias ID = Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -305,7 +311,9 @@ public struct CardPaymentRequisites {
   public let expireDate: Foundation.Date
   public let cvc: Swift.String
   public let isGenerateToken: Swift.Bool
+  public var cardholderName: Swift.String?
   public init(cardNumber: Swift.String, expireDate: Foundation.Date, cvc: Swift.String, isGenerateToken: Swift.Bool)
+  public init(cardNumber: Swift.String, expireDate: Foundation.Date, cvc: Swift.String, isGenerateToken: Swift.Bool, cardholderName: Swift.String)
 }
 public class PaymentCardRecurringDomain {
   public typealias PaymentClosure = (Swift.Result<UnlimintSDK_Core.PaymentResultModel, UnlimintSDK_Core.UnlimintErrors>) -> Swift.Void
@@ -364,7 +372,8 @@ public struct PaypalRequisites {
   public let email: Swift.String
   public init(email: Swift.String)
 }
-public struct PaymentMethodData : Swift.Codable {
+public struct PaymentMethodData : Swift.Codable, Swift.Identifiable {
+  public var id: Swift.String
   public struct CardAccount : Swift.Codable {
     public let billingAddress: UnlimintSDK_Core.BillingAddress?
     public init(token: Swift.String?, billingAddress: UnlimintSDK_Core.BillingAddress?)
@@ -378,6 +387,7 @@ public struct PaymentMethodData : Swift.Codable {
   public let paymentData: UnlimintSDK_Core.PaymentData
   public let cardAccount: UnlimintSDK_Core.PaymentMethodData.CardAccount?
   public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.PaymentCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.PaymentMethodData.CardAccount?)
+  public typealias ID = Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -409,6 +419,7 @@ public enum CardPaymentSystem : Swift.String {
   case mastercard
   case visa
   case mir
+  case amex
   case unknown
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
@@ -430,7 +441,8 @@ public struct RecurringData : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-public struct PaymentTokenMethodData : Swift.Codable {
+public struct PaymentTokenMethodData : Swift.Codable, Swift.Identifiable {
+  public var id: Swift.String
   public struct CardAccount : Swift.Codable {
     public let token: Swift.String
     public let pan: Swift.String
@@ -447,6 +459,7 @@ public struct PaymentTokenMethodData : Swift.Codable {
   public let paymentData: UnlimintSDK_Core.PaymentData
   public let cardAccount: UnlimintSDK_Core.PaymentTokenMethodData.CardAccount
   public init(with merchantName: Swift.String, paymentMethod: Swift.String, customer: UnlimintSDK_Core.PaymentCustomer, merchantOrder: UnlimintSDK_Core.PaymentMerchantOrder, paymentData: UnlimintSDK_Core.PaymentData, cardAccount: UnlimintSDK_Core.PaymentTokenMethodData.CardAccount)
+  public typealias ID = Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }

@@ -16,11 +16,11 @@
 		B30431BB29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30431BA29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift */; };
 		B304331429A39A24008DE0FF /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331229A39A24008DE0FF /* Endpoints.swift */; };
 		B304331529A39A24008DE0FF /* AuthorizationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331329A39A24008DE0FF /* AuthorizationProvider.swift */; };
-		B3159E552BBEA594000A8C2D /* UnlimintSDK_Core in Frameworks */ = {isa = PBXBuildFile; productRef = B3159E542BBEA594000A8C2D /* UnlimintSDK_Core */; };
-		B3159E572BBEA594000A8C2D /* UnlimintSDK_SwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = B3159E562BBEA594000A8C2D /* UnlimintSDK_SwiftUI */; };
 		B3159E5A2BBEA5AC000A8C2D /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = B3159E592BBEA5AC000A8C2D /* Alamofire */; };
 		B3159E5D2BBEA5B6000A8C2D /* Moya in Frameworks */ = {isa = PBXBuildFile; productRef = B3159E5C2BBEA5B6000A8C2D /* Moya */; };
 		B3159E602BBEA5BF000A8C2D /* Swinject in Frameworks */ = {isa = PBXBuildFile; productRef = B3159E5F2BBEA5BF000A8C2D /* Swinject */; };
+		B3321C252C5B5DB500AD1868 /* UnlimintSDK_Core in Frameworks */ = {isa = PBXBuildFile; productRef = B3321C242C5B5DB500AD1868 /* UnlimintSDK_Core */; };
+		B3321C272C5B5DB500AD1868 /* UnlimintSDK_SwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = B3321C262C5B5DB500AD1868 /* UnlimintSDK_SwiftUI */; };
 		B3932AC62AA7453C00DCF3D2 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3932AC52AA7453C00DCF3D2 /* Color.swift */; };
 		B3B5F62C2A70F64E00367243 /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F62B2A70F64E00367243 /* StatusView.swift */; };
 		B3B5F6532A8632E700367243 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F6522A8632E700367243 /* NetworkService.swift */; };
@@ -96,9 +96,9 @@
 			files = (
 				B3159E5A2BBEA5AC000A8C2D /* Alamofire in Frameworks */,
 				B3159E602BBEA5BF000A8C2D /* Swinject in Frameworks */,
-				B3159E552BBEA594000A8C2D /* UnlimintSDK_Core in Frameworks */,
+				B3321C272C5B5DB500AD1868 /* UnlimintSDK_SwiftUI in Frameworks */,
+				B3321C252C5B5DB500AD1868 /* UnlimintSDK_Core in Frameworks */,
 				B3159E5D2BBEA5B6000A8C2D /* Moya in Frameworks */,
-				B3159E572BBEA594000A8C2D /* UnlimintSDK_SwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,11 +253,11 @@
 			);
 			name = SwiftUISDKTest;
 			packageProductDependencies = (
-				B3159E542BBEA594000A8C2D /* UnlimintSDK_Core */,
-				B3159E562BBEA594000A8C2D /* UnlimintSDK_SwiftUI */,
 				B3159E592BBEA5AC000A8C2D /* Alamofire */,
 				B3159E5C2BBEA5B6000A8C2D /* Moya */,
 				B3159E5F2BBEA5BF000A8C2D /* Swinject */,
+				B3321C242C5B5DB500AD1868 /* UnlimintSDK_Core */,
+				B3321C262C5B5DB500AD1868 /* UnlimintSDK_SwiftUI */,
 			);
 			productName = SwiftUISDKTest;
 			productReference = B304319A29A340CD008DE0FF /* SwiftUISDKTest.app */;
@@ -335,10 +335,10 @@
 			);
 			mainGroup = B304319129A340CD008DE0FF;
 			packageReferences = (
-				B3159E532BBEA594000A8C2D /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */,
 				B3159E582BBEA5AC000A8C2D /* XCRemoteSwiftPackageReference "Alamofire" */,
 				B3159E5B2BBEA5B6000A8C2D /* XCRemoteSwiftPackageReference "Moya" */,
 				B3159E5E2BBEA5BF000A8C2D /* XCRemoteSwiftPackageReference "Swinject" */,
+				B3321C232C5B5DB500AD1868 /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */,
 			);
 			productRefGroup = B304319B29A340CD008DE0FF /* Products */;
 			projectDirPath = "";
@@ -740,14 +740,6 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		B3159E532BBEA594000A8C2D /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/cardpay/unlimit-ios-sdk.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 2.1.5;
-			};
-		};
 		B3159E582BBEA5AC000A8C2D /* XCRemoteSwiftPackageReference "Alamofire" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
@@ -772,19 +764,17 @@
 				minimumVersion = 2.8.4;
 			};
 		};
+		B3321C232C5B5DB500AD1868 /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/cardpay/unlimit-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		B3159E542BBEA594000A8C2D /* UnlimintSDK_Core */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B3159E532BBEA594000A8C2D /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */;
-			productName = UnlimintSDK_Core;
-		};
-		B3159E562BBEA594000A8C2D /* UnlimintSDK_SwiftUI */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B3159E532BBEA594000A8C2D /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */;
-			productName = UnlimintSDK_SwiftUI;
-		};
 		B3159E592BBEA5AC000A8C2D /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = B3159E582BBEA5AC000A8C2D /* XCRemoteSwiftPackageReference "Alamofire" */;
@@ -799,6 +789,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = B3159E5E2BBEA5BF000A8C2D /* XCRemoteSwiftPackageReference "Swinject" */;
 			productName = Swinject;
+		};
+		B3321C242C5B5DB500AD1868 /* UnlimintSDK_Core */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B3321C232C5B5DB500AD1868 /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */;
+			productName = UnlimintSDK_Core;
+		};
+		B3321C262C5B5DB500AD1868 /* UnlimintSDK_SwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B3321C232C5B5DB500AD1868 /* XCRemoteSwiftPackageReference "unlimit-ios-sdk" */;
+			productName = UnlimintSDK_SwiftUI;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

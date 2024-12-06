@@ -4,7 +4,7 @@
 
 import Foundation
 
-#if os(iOS) || os(macOS) || os(tvOS) || os(watchOS)
+#if os(iOS) || os(macOS) || os(tvOS) || os(watchOS) || os(visionOS)
 /// `os_unfair_lock_recursive` is, for some reason, a private-API.
 ///
 /// `RecursiveLock` is a fair, recursive lock where acquisition order is guaranteed and recursion is permitted.
@@ -15,10 +15,10 @@ import Foundation
 /// - https://serhiybutz.medium.com/swift-mutex-benchmark-b21ee293d9ad
 ///
 /// Class-type paired with pointer-use guarantees address stability.
-public final class RecursiveLock {
+internal final class RecursiveLock {
     // MARK: Lifecycle
 
-    public init() {
+    internal init() {
         mutex = .allocate(capacity: 1)
         mutex.initialize(to: pthread_mutex_t())
 
@@ -77,14 +77,14 @@ public final class RecursiveLock {
 }
 #else
 internal final class RecursiveLock {
-    private let lock = NSRecursiveLock()
+    private let recursiveLock = NSRecursiveLock()
 
     func lock() {
-        lock.lock()
+        recursiveLock.lock()
     }
 
     func unlock() {
-        lock.unlock()
+        recursiveLock.unlock()
     }
 }
 #endif

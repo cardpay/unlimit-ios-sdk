@@ -16,16 +16,16 @@
 		B30431BB29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30431BA29A340CE008DE0FF /* SwiftUISDKTestUITestsLaunchTests.swift */; };
 		B304331429A39A24008DE0FF /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331229A39A24008DE0FF /* Endpoints.swift */; };
 		B304331529A39A24008DE0FF /* AuthorizationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304331329A39A24008DE0FF /* AuthorizationProvider.swift */; };
-		B3159E362BBE8462000A8C2D /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E312BBE8462000A8C2D /* Swinject.xcframework */; };
-		B3159E372BBE8462000A8C2D /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E312BBE8462000A8C2D /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B3159E382BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */; };
-		B3159E392BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B3159E3A2BBE8462000A8C2D /* Moya.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E332BBE8462000A8C2D /* Moya.xcframework */; };
-		B3159E3B2BBE8462000A8C2D /* Moya.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E332BBE8462000A8C2D /* Moya.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B3159E3C2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */; };
-		B3159E3D2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B3159E3E2BBE8462000A8C2D /* Alamofire.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E352BBE8462000A8C2D /* Alamofire.xcframework */; };
-		B3159E3F2BBE8462000A8C2D /* Alamofire.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E352BBE8462000A8C2D /* Alamofire.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3321C282C5B61C900AD1868 /* Alamofire.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E352BBE8462000A8C2D /* Alamofire.xcframework */; };
+		B3321C292C5B61C900AD1868 /* Alamofire.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E352BBE8462000A8C2D /* Alamofire.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3321C2A2C5B61C900AD1868 /* Moya.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E332BBE8462000A8C2D /* Moya.xcframework */; };
+		B3321C2B2C5B61C900AD1868 /* Moya.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E332BBE8462000A8C2D /* Moya.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3321C2C2C5B61C900AD1868 /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E312BBE8462000A8C2D /* Swinject.xcframework */; };
+		B3321C2D2C5B61C900AD1868 /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E312BBE8462000A8C2D /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3321C2E2C5B61C900AD1868 /* UnlimintSDK_Core.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */; };
+		B3321C2F2C5B61C900AD1868 /* UnlimintSDK_Core.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E342BBE8462000A8C2D /* UnlimintSDK_Core.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3321C302C5B61C900AD1868 /* UnlimintSDK_SwiftUI.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */; };
+		B3321C312C5B61C900AD1868 /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3159E322BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B3932AC62AA7453C00DCF3D2 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3932AC52AA7453C00DCF3D2 /* Color.swift */; };
 		B3B5F62C2A70F64E00367243 /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F62B2A70F64E00367243 /* StatusView.swift */; };
 		B3B5F6532A8632E700367243 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B5F6522A8632E700367243 /* NetworkService.swift */; };
@@ -54,17 +54,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		B3B359B22B7CE19900F3FB34 /* Embed Frameworks */ = {
+		B3321C322C5B61C900AD1868 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				B3159E3F2BBE8462000A8C2D /* Alamofire.xcframework in Embed Frameworks */,
-				B3159E392BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */,
-				B3159E3D2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Embed Frameworks */,
-				B3159E372BBE8462000A8C2D /* Swinject.xcframework in Embed Frameworks */,
-				B3159E3B2BBE8462000A8C2D /* Moya.xcframework in Embed Frameworks */,
+				B3321C292C5B61C900AD1868 /* Alamofire.xcframework in Embed Frameworks */,
+				B3321C312C5B61C900AD1868 /* UnlimintSDK_SwiftUI.xcframework in Embed Frameworks */,
+				B3321C2F2C5B61C900AD1868 /* UnlimintSDK_Core.xcframework in Embed Frameworks */,
+				B3321C2D2C5B61C900AD1868 /* Swinject.xcframework in Embed Frameworks */,
+				B3321C2B2C5B61C900AD1868 /* Moya.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -109,11 +109,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3159E3E2BBE8462000A8C2D /* Alamofire.xcframework in Frameworks */,
-				B3159E382BBE8462000A8C2D /* UnlimintSDK_SwiftUI.xcframework in Frameworks */,
-				B3159E3C2BBE8462000A8C2D /* UnlimintSDK_Core.xcframework in Frameworks */,
-				B3159E362BBE8462000A8C2D /* Swinject.xcframework in Frameworks */,
-				B3159E3A2BBE8462000A8C2D /* Moya.xcframework in Frameworks */,
+				B3321C282C5B61C900AD1868 /* Alamofire.xcframework in Frameworks */,
+				B3321C302C5B61C900AD1868 /* UnlimintSDK_SwiftUI.xcframework in Frameworks */,
+				B3321C2E2C5B61C900AD1868 /* UnlimintSDK_Core.xcframework in Frameworks */,
+				B3321C2C2C5B61C900AD1868 /* Swinject.xcframework in Frameworks */,
+				B3321C2A2C5B61C900AD1868 /* Moya.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +265,7 @@
 				B304319629A340CD008DE0FF /* Sources */,
 				B304319729A340CD008DE0FF /* Frameworks */,
 				B304319829A340CD008DE0FF /* Resources */,
-				B3B359B22B7CE19900F3FB34 /* Embed Frameworks */,
+				B3321C322C5B61C900AD1868 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
